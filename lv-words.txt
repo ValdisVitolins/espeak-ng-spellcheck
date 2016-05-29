@@ -1,3 +1,16 @@
+_- .
+: .
+! .
+!= .
+. .
+©.
+$.
+&.
+<=.
+>=.
+€.
+10:15.
+-20,1.
 a.
 abaks.
 abas.
@@ -423,6 +436,7 @@ aglomerāts.
 aglomerēt.
 aglomerētājs.
 aglona.
+aglonas.
 aglonietis.
 aglonu.
 agloporīts.
@@ -2535,6 +2549,7 @@ aizliegtākie.
 aizliegtāko.
 aizliegtāks.
 aizliegtāku.
+aizliegts.
 aizliegums.
 aizliegumu.
 aizliegusi.
@@ -5877,12 +5892,14 @@ albīna.
 albīne.
 albīnisms.
 albīns.
+albuma.
 albumam.
 albumināts.
 albuminoīds.
 albumīnlīme.
 albumīns.
 albums.
+albumu.
 albumus.
 alcējs.
 alcheimers.
@@ -6266,6 +6283,7 @@ amilnitrīts.
 amilopektīns.
 amiloze.
 amilspirts.
+aminatas.
 aminoazobenzols.
 aminoazosavienojums.
 aminoazotoluols.
@@ -6781,6 +6799,7 @@ apakšgals.
 apakšgarums.
 apakšgrāvis.
 apakšgrupa.
+apakšgrupas.
 apakšģints.
 apakšiedalījums.
 apakšinstance.
@@ -7627,6 +7646,7 @@ apdošoties.
 apdot.
 apdragāt.
 apdrapēt.
+apdraud.
 apdraudējums.
 apdraudēt.
 apdraudētājs.
@@ -7900,8 +7920,10 @@ apdzīvojamāk.
 apdzīvojams.
 apdzīvojums.
 apdzīvot.
+apdzīvotā.
 apdzīvotājs.
 apdzīvotāk.
+apdzīvotās.
 apdzīvotība.
 apdžinkstēt.
 ape.
@@ -8001,9 +8023,11 @@ apfantazēt.
 apfilozofēt.
 apfrēzēt.
 apfrizēt.
+apgabala.
 apgabals.
 apgabaltiesa.
 apgabaltiesnesis.
+apgabalu.
 apgabalus.
 apgaiņāt.
 apgaisme.
@@ -8548,6 +8572,7 @@ apjūsmot.
 apjūsmotājs.
 apkabināt.
 apkaime.
+apkaimes.
 apkaimē.
 apkaisīt.
 apkaisošies.
@@ -10757,6 +10782,7 @@ apraide.
 apraidīt.
 apraidītājs.
 aprakņāt.
+apraksta.
 aprakste.
 aprakstīja.
 aprakstījis.
@@ -11141,6 +11167,7 @@ aprimusies.
 aprimušies.
 aprindas.
 aprindām.
+apriņķa.
 apriņķis.
 apriņķojums.
 apriņķot.
@@ -12430,6 +12457,7 @@ apsvērtāku.
 apsvēru.
 apsvērumi.
 apsvērums.
+apsvērumu.
 apsvērusi.
 apsvēruši.
 apsvētīt.
@@ -13292,6 +13320,7 @@ apvidvārds.
 apvidžināt.
 apviebt.
 apvienība.
+apvieno.
 apvienojot.
 apvienojumā.
 apvienojums.
@@ -13517,6 +13546,7 @@ apzīdējs.
 apzīdi.
 apzīdīt.
 apzīdu.
+apzīmē.
 apzīmējumi.
 apzīmējums.
 apzīmēt.
@@ -13687,6 +13717,7 @@ arābiete.
 arābija.
 arābisks.
 arābs.
+arābu.
 arājiem.
 arājs.
 arāju.
@@ -13752,6 +13783,7 @@ arhitektonika.
 arhitektonisks.
 arhitekts.
 arhitektūra.
+arhitektūras.
 arhivārs.
 arhivēt.
 arhīva.
@@ -13814,6 +13846,7 @@ armēnija.
 armēnis.
 armēt.
 armija.
+armijas.
 armijnieks.
 armīns.
 arnika.
@@ -14097,6 +14130,8 @@ aspartātaminotranferāze.
 aspartāts.
 aspartīnskābe.
 aspazija.
+aspekta.
+aspektos.
 aspekts.
 aspirants.
 aspirantūra.
@@ -14179,6 +14214,7 @@ astotdaļnots.
 astotkārt.
 astotnieks.
 astotnieku.
+astoto.
 astra.
 astrahaņa.
 astrāls.
@@ -14288,6 +14324,7 @@ atbalsotājs.
 atbalspārbaude.
 atbalss.
 atbalsta.
+atbalstam.
 atbalstāmāka.
 atbalstāmākā.
 atbalstāmāki.
@@ -15816,6 +15853,7 @@ atkarība.
 atkarības.
 atkarībā.
 atkarību.
+atkarīga.
 atkarīgas.
 atkarīgi.
 atkarīgiem.
@@ -15981,6 +16019,7 @@ atklādama.
 atklādamas.
 atklādami.
 atklādams.
+atklāj.
 atklāja.
 atklājas.
 atklājām.
@@ -16394,6 +16433,7 @@ atlakušies.
 atlamāt.
 atlantā.
 atlantija.
+atlantijas.
 atlantisks.
 atlants.
 atlapot.
@@ -17005,6 +17045,7 @@ atmodušies.
 atmodušos.
 atmometrs.
 atmosfēra.
+atmosfēras.
 atmosfērā.
 atmosfērisks.
 atmosfērizturība.
@@ -18085,6 +18126,7 @@ atsaucāmies.
 atsaucās.
 atsaucāties.
 atsauce.
+atsauces.
 atsaucējs.
 atsaucies.
 atsaucieties.
@@ -19837,6 +19879,7 @@ attīstāmāki.
 attīstāmāko.
 attīstāmāks.
 attīstāmāku.
+attīstās.
 attīstība.
 attīstībai.
 attīstības.
@@ -20774,16 +20817,22 @@ augseka.
 augsme.
 augsne.
 augsta.
+augstajam.
 augstas.
 augstā.
+augstāk.
 augstāka.
+augstākais.
+augstākajā.
 augstākam.
 augstākas.
 augstākā.
 augstākām.
+augstākās.
 augstāki.
 augstākie.
 augstākminēts.
+augstāko.
 augstāks.
 augstākstāvēt.
 augstākstāvoša.
@@ -20946,6 +20995,7 @@ augt.
 augtākajās.
 augts.
 augtu.
+augu.
 auguma.
 augumam.
 augums.
@@ -21077,6 +21127,7 @@ austrumdaļa.
 austrumeiropa.
 austrumeiropietis.
 austrumi.
+austrumiem.
 austrumindija.
 austrumkrasts.
 austrumlatgale.
@@ -21084,6 +21135,7 @@ austrumlatvietis.
 austrumlatvija.
 austrumniecisks.
 austrumnieks.
+austrumos.
 austrumprūsija.
 austrumpuse.
 austrums.
@@ -21143,7 +21195,9 @@ autobusu.
 autobūve.
 autobūvniecība.
 autoceltnis.
+autoceļa.
 autoceļš.
+autoceļu.
 autocentrs.
 autocisterna.
 autodafē.
@@ -21202,6 +21256,7 @@ autolīze.
 automagnetola.
 automaģistrāle.
 automašīna.
+automašīnas.
 automašīnām.
 automašīnu.
 automatizācija.
@@ -21261,6 +21316,7 @@ autoreksemplārs.
 autoremonts.
 autorēt.
 autorhonorārs.
+autori.
 autoriepa.
 autoritatīvs.
 autoritārisms.
@@ -21283,6 +21339,7 @@ autorprogramma.
 autorraidījums.
 autors.
 autortiesības.
+autoru.
 autoruzraudzība.
 autorūpniecība.
 autorūpnīca.
@@ -21512,6 +21569,8 @@ ažūrs.
 ādolfs.
 ādu.
 āfrika.
+āfrikas.
+āfrikā.
 āgenskalns.
 ākstība.
 ākstīgāk.
@@ -21587,10 +21646,12 @@ ažūrs.
 ārīgs.
 ārkārtas.
 ārkārtējs.
+ārkārtīgi.
 ārkārtīgs.
 ārlaulība.
 ārleņķis.
 ārlietas.
+ārlietu.
 ārlīnijas.
 ārmala.
 ārpakalpojums.
@@ -21676,6 +21737,7 @@ ažūrs.
 ārvalstniecība.
 ārvalstnieks.
 ārvalsts.
+ārvalstu.
 ārvide.
 ārzemes.
 ārzemēm.
@@ -21758,6 +21820,7 @@ ažūrs.
 āz.
 āzēt.
 āzija.
+āzijas.
 āzis.
 āžloks.
 āžrags.
@@ -21983,6 +22046,7 @@ baložos.
 baložu.
 baložupe.
 balsene.
+balsi.
 balsiens.
 balsinājums.
 balsināt.
@@ -21991,8 +22055,11 @@ balsis.
 balsī.
 balsīgs.
 balsnējs.
+balso.
 balsojām.
+balsojumam.
 balsojums.
+balsojumu.
 balsošanu.
 balsot.
 balsotājs.
@@ -22040,6 +22107,7 @@ balticums.
 baltie.
 baltietis.
 baltija.
+baltijas.
 baltimora.
 baltinava.
 baltināt.
@@ -22069,6 +22137,7 @@ baltmutos.
 baltmutu.
 baltmutus.
 baltnadzis.
+balto.
 baltologs.
 baltozols.
 baltroce.
@@ -22076,6 +22145,7 @@ baltrocis.
 balts.
 baltslāvs.
 baltsvārcis.
+baltu.
 baltums.
 baltvalis.
 baltvācietis.
@@ -22085,8 +22155,10 @@ baltvīns.
 balupe.
 balustrāde.
 balva.
+balvas.
 balvi.
 balvis.
+balvu.
 balzambaltegle.
 balzamēt.
 balzamētājs.
@@ -22218,6 +22290,7 @@ baroklis.
 baroks.
 barometrisks.
 barometrs.
+barona.
 baronese.
 baronets.
 barons.
@@ -22260,6 +22333,7 @@ basicu.
 baskājains.
 baskāje.
 baskājis.
+basketbola.
 basketbolista.
 basketbolists.
 basketbols.
@@ -22455,7 +22529,6 @@ bāzē.
 bāzēm.
 bāzēs.
 bāzēt.
-bāzi!.
 bāzi.
 bāzieties.
 bāzisks.
@@ -22709,6 +22782,7 @@ berils.
 berklijs.
 berlingu.
 berlīne.
+berlīnē.
 berlīnietis.
 bermontiāde.
 bermudu.
@@ -22761,6 +22835,7 @@ beržošies.
 beržoties.
 besarābiete.
 besarābija.
+besī.
 bestsellers.
 bešā.
 bet.
@@ -23113,6 +23188,7 @@ bēgam.
 bēgdama.
 bēgle.
 bēglis.
+bēgļu.
 bēgšana.
 bēgšus.
 bēgt.
@@ -23935,6 +24011,8 @@ bļoda.
 bļodā.
 bļodlaiža.
 bļodveida.
+bmw.
+bns.
 boa.
 bobijs.
 bobota.
@@ -23998,6 +24076,7 @@ bojājumu.
 bojājuši.
 bojāt.
 bojātājs.
+boksa.
 bokseris.
 boksēties.
 boksilāts.
@@ -24056,6 +24135,7 @@ borozinskis.
 bors.
 borskābe.
 borščs.
+borta.
 bortiem.
 bortmehāniķis.
 borts.
@@ -24177,7 +24257,6 @@ braukāt.
 braukātājs.
 braukdams.
 brauki.
-braukﾚot.
 braukot.
 brauks.
 brauksiet.
@@ -24431,6 +24510,7 @@ brists.
 brišus.
 britānija.
 brits.
+britu.
 brizants.
 briža.
 brižinska.
@@ -24636,6 +24716,7 @@ bronhoskops.
 bronhs.
 bronksa.
 bronza.
+bronzas.
 bronzējums.
 bronzēt.
 broņislava.
@@ -25648,10 +25729,12 @@ centralizētība.
 centram.
 centrā.
 centrālajai.
+centrālajā.
 centrālamerika.
 centrālapkure.
 centrālapkures.
 centrālas.
+centrālā.
 centrālāfrika.
 centrālāzija.
 centrālbiedrība.
@@ -25982,6 +26065,7 @@ cielava.
 ciema.
 ciemakukulis.
 ciemats.
+ciemi.
 cieminieks.
 ciemiņi.
 ciemiņiem.
@@ -26051,6 +26135,7 @@ ciešas.
 ciešat.
 ciešaties.
 ciešākas.
+cieši.
 ciešmetrs.
 ciešos.
 ciešoša.
@@ -26632,7 +26717,9 @@ colla.
 collīgs.
 collmērs.
 collpapīrs.
+com.
 cukīni.
+cukura.
 cukurbiete.
 cukurfabrika.
 cukurgailis.
@@ -26648,6 +26735,7 @@ cukurskābe.
 cukurslimība.
 cukurslimnieks.
 cukurtrauks.
+cukuru.
 cukurzirnis.
 cunami.
 cunfte.
@@ -26660,6 +26748,7 @@ cūcisks.
 cūcība.
 cūcīgs.
 cūka.
+cūkas.
 cūkaudzētājs.
 cūkausis.
 cūkāda.
@@ -26680,6 +26769,7 @@ cūkkūts.
 cūkkūtu.
 cūknātre.
 cūkpiene.
+cūku.
 cūkveidīgs.
 cv.
 č.
@@ -26752,6 +26842,7 @@ cv.
 čehiem.
 čehiete.
 čehija.
+čehiju.
 čehovs.
 čehs.
 čeka.
@@ -26765,9 +26856,14 @@ cv.
 čells.
 čeļabinskietis.
 čemodāns.
+čempiona.
+čempionāta.
+čempionātā.
 čempionāts.
+čempionātu.
 čempions.
 čempiontituls.
+čempionu.
 čempionvienība.
 čems.
 čemurains.
@@ -27158,6 +27254,7 @@ daktiloskopija.
 daktiloskopisks.
 daktils.
 dakts.
+dala.
 dalailama.
 dalailamam.
 dalailamas.
@@ -27171,10 +27268,13 @@ dalība.
 dalības.
 dalībieks.
 dalībiestāde.
+dalībnieka.
 dalībnieki.
+dalībniekiem.
 dalībnieks.
 dalībnieku.
 dalīborganizācija.
+dalību.
 dalībuzņēmums.
 dalībvalsts.
 dalījās.
@@ -27196,6 +27296,7 @@ daļai.
 daļas.
 daļā.
 daļām.
+daļās.
 daļdalība.
 daļēji.
 daļējs.
@@ -27714,6 +27815,7 @@ daugavā.
 daugavgrīva.
 daugavieši.
 daugavietis.
+daugaviņš.
 daugavmala.
 daugavmalas.
 daugavpili.
@@ -28676,6 +28778,7 @@ dēstīt.
 dēstītājs.
 dēsts.
 dēt.
+dēvē.
 dēvējums.
 dēvēt.
 dēvētājs.
@@ -28884,6 +28987,7 @@ dienvidaustrālija.
 dienvidaustrumāzija.
 dienvidaustrumeiropa.
 dienvidaustrumi.
+dienvidaustrumos.
 dienvidāfrika.
 dienvidāfrikānis.
 dienvidāzija.
@@ -28894,6 +28998,7 @@ dienvideiropa.
 dienvidfrancija.
 dienvidgals.
 dienvidi.
+dienvidiem.
 dienvidigaunija.
 dienvidkarolīna.
 dienvidkoreja.
@@ -28905,6 +29010,7 @@ dienvidlatgale.
 dienvidlibāna.
 dienvidniecisks.
 dienvidnieks.
+dienvidos.
 dienvidpols.
 dienvidpuse.
 dienvidrietumeiropa.
@@ -28961,6 +29067,7 @@ dieveklis.
 dieveris.
 dievgaldnieks.
 dievgalds.
+dievi.
 dieviem.
 dieviete.
 dievināt.
@@ -29404,6 +29511,7 @@ disku.
 diskurss.
 diskus.
 diskusija.
+diskusijas.
 diskusijām.
 diskusiju.
 diskusīvs.
@@ -29571,6 +29679,7 @@ divinilstirols.
 divistabu.
 divizions.
 divīzija.
+divīzijā.
 divjoslu.
 divjūgs.
 divkabeļu.
@@ -30012,6 +30121,7 @@ dokumentvedība.
 dokumentzinis.
 dolāri.
 dolārs.
+dolāru.
 dolārus.
 dole.
 doles.
@@ -30032,6 +30142,7 @@ domāja.
 domājam.
 domājams.
 domājas.
+domājat.
 domājām.
 domāji.
 domājis.
@@ -30056,6 +30167,7 @@ domātu.
 dome.
 domei.
 domenkrāsns.
+domes.
 domē.
 domēm.
 domēnatmiņa.
@@ -30162,6 +30274,7 @@ dozimetrisks.
 dozimetrists.
 dozimetrs.
 dpvd.
+dr.
 drabeši.
 drabiņas.
 dracēna.
@@ -30198,7 +30311,6 @@ dramaturģe.
 dramaturģija.
 dramaturģisks.
 dranķīgi.
-draņķis!.
 draņķis.
 draņķīgā.
 draņķīgs.
@@ -30252,6 +30364,7 @@ draugi.
 draugiem.
 draugs.
 draugu.
+draugus.
 drauģelis.
 drausmas.
 drausmīgi.
@@ -30578,6 +30691,7 @@ dubultstikls.
 dubultsuperfosfāts.
 dubultšuvums.
 dubulttarifs.
+dubultu.
 dubultuzvārds.
 dubultvārds.
 dubultveiksme.
@@ -31238,7 +31352,9 @@ dziedzeris.
 dziedzerveida.
 dzienā.
 dziesma.
+dziesmai.
 dziesmas.
+dziesmām.
 dziesminieks.
 dziesmiņa.
 dziesmiņas.
@@ -31297,6 +31413,7 @@ dziļurbums.
 dziļūdens.
 dzima.
 dzimis.
+dzimst.
 dzimstība.
 dzimstot.
 dzimšana.
@@ -31306,10 +31423,13 @@ dzimšanu.
 dzimt.
 dzimta.
 dzimtai.
+dzimtas.
 dzimtbūšana.
 dzimtcilvēks.
 dzimte.
 dzimtene.
+dzimtenes.
+dzimteni.
 dzimtes.
 dzimtē.
 dzimtīpašnieks.
@@ -31523,6 +31643,7 @@ dzīvi.
 dzīvildze.
 dzīvināt.
 dzīvība.
+dzīvības.
 dzīvību.
 dzīvīgs.
 dzīvīgums.
@@ -31531,9 +31652,13 @@ dzīvnieciņa.
 dzīvnieciņš.
 dzīvniecisks.
 dzīvnieciskums.
+dzīvnieki.
+dzīvniekiem.
 dzīvniekizcelsme.
 dzīvniekmīlestība.
 dzīvnieks.
+dzīvnieku.
+dzīvniekus.
 dzīvniekveida.
 dzīvo.
 dzīvodams.
@@ -31594,6 +31719,7 @@ dzret.
 džaivot.
 džaivs.
 džakarta.
+džamala.
 džeimsa.
 džemperi.
 džemperiem.
@@ -31645,6 +31771,7 @@ ebonīts.
 ebrejiete.
 ebrejisks.
 ebrejs.
+ebreju.
 ebulioskopisks.
 ec.
 ecēša.
@@ -31675,6 +31802,7 @@ edvīns.
 edz.
 edžiņš.
 edžus.
+eest.
 efedrīns.
 efeja.
 efejas.
@@ -31778,10 +31906,12 @@ eirooptimisms.
 eirooptimists.
 eiropa.
 eiropadome.
+eiropai.
 eiropalete.
 eiroparlamentārietis.
 eiroparlaments.
 eiropas.
+eiropā.
 eiropeāde.
 eiropeisks.
 eiropeizācija.
@@ -31800,8 +31930,11 @@ eiroskeptiķis.
 eiroskeptisks.
 eirouniversitāte.
 eirovalūta.
+eirovizija.
 eirovīzija.
 eirovīzijas.
+eirovīzijā.
+eirovīziju.
 eirozona.
 eisaks.
 eitanāzija.
@@ -31857,6 +31990,7 @@ eklektisks.
 eklektisms.
 ekliptika.
 ekliptisks.
+eko.
 ekobūvniecība.
 ekoefektivitāte.
 ekohigiēna.
@@ -31873,6 +32007,7 @@ ekonometrisks.
 ekonomēt.
 ekonomija.
 ekonomika.
+ekonomikas.
 ekonomiskāk.
 ekonomisko.
 ekonomisks.
@@ -31948,6 +32083,7 @@ eksistence.
 eksistenciālisms.
 eksistenciālists.
 eksistenciāls.
+eksistē.
 eksistējam.
 eksistējusi.
 eksistēt.
@@ -31999,6 +32135,7 @@ eksperimentu.
 ekspertam.
 ekspertapskate.
 eksperte.
+eksperti.
 ekspertiestāde.
 ekspertīze.
 eksperts.
@@ -32358,6 +32495,7 @@ elektrozils.
 elektrozveja.
 elementāra.
 elementāranalīze.
+elementāras.
 elementārām.
 elementārdaļiņa.
 elementārdarbs.
@@ -32368,6 +32506,7 @@ elementārskola.
 elementāršūna.
 elementāru.
 elementgrupējums.
+elementi.
 elements.
 elementuizbūve.
 elemetārākais.
@@ -32404,6 +32543,7 @@ eliss.
 elita.
 elitārs.
 elite.
+elites.
 elitu.
 elizabete.
 elizabetes.
@@ -33087,6 +33227,8 @@ etoksilēt.
 etoloģija.
 etrusks.
 etvija.
+eu.
+eur.
 euratom.
 eurobūve.
 euroceltne.
@@ -33245,6 +33387,7 @@ ežu.
 ēģiptietis.
 ēģiptologs.
 ēka.
+ēkas.
 ēkām.
 ēkās.
 ēku.
@@ -33334,6 +33477,7 @@ ežu.
 ēterizēt.
 ēters.
 ētika.
+ētikas.
 ētisks.
 ēvalds.
 ēvarži.
@@ -33428,6 +33572,7 @@ fanātiķis.
 fanātisks.
 fanātisms.
 fanfara.
+fani.
 fanija.
 fans.
 fantasmagorija.
@@ -33482,6 +33627,7 @@ fašisms.
 fašistisks.
 fašists.
 fašizācija.
+fašizm.
 fašīna.
 fat32.
 fata.
@@ -33515,6 +33661,7 @@ februāris.
 februārī.
 federatīvs.
 federācija.
+federācijas.
 federālisms.
 federālists.
 federāls.
@@ -33633,6 +33780,7 @@ ferosilīcijs.
 ferovanādijs.
 ferrāts.
 feska.
+festivāla.
 festivāls.
 fetišisms.
 fetišists.
@@ -33708,6 +33856,7 @@ filistrs.
 filma.
 filmaktieris.
 filmas.
+filmā.
 filmām.
 filmās.
 filmēju.
@@ -33984,6 +34133,7 @@ folklorists.
 folklorizēt.
 folkmūzika.
 folskābe.
+fon.
 fona.
 fonā.
 fonda.
@@ -34271,6 +34421,7 @@ frakts.
 fraktūra.
 franapole.
 francija.
+francijas.
 francijā.
 francijs.
 francis.
@@ -34282,6 +34433,7 @@ francūziete.
 francūzis.
 franči.
 frančmaize.
+franču.
 frankēt.
 frankfurte.
 franko.
@@ -34435,6 +34587,7 @@ furokumarīns.
 furors.
 furunkuloze.
 furunkuls.
+futbola.
 futbolā.
 futbolbumba.
 futbolbumbu.
@@ -34537,6 +34690,7 @@ gadolīnijs.
 gados.
 gadoties.
 gads.
+gadsimta.
 gadsimtenis.
 gadsimts.
 gadskārta.
@@ -34832,7 +34986,6 @@ galvojums.
 galvot.
 galvotājs.
 galvturis.
-galvu!.
 galvu.
 galvvidus.
 gaļa.
@@ -35510,6 +35663,7 @@ glābjamies.
 glābjas.
 glābjaties.
 glābjos.
+glābjot.
 glābjoties.
 glābšoties.
 glābt.
@@ -35771,6 +35925,7 @@ gonioskopija.
 gonioskops.
 gonokoks.
 gonoreja.
+google.
 gora.
 gorilla.
 gorillam.
@@ -36261,6 +36416,7 @@ gribu.
 gricgale.
 grieķiete.
 grieķija.
+grieķijas.
 grieķis.
 grieķisks.
 grieķu.
@@ -36364,6 +36520,7 @@ grīslis.
 grīste.
 grīšļains.
 grīva.
+grīziņkalna.
 grīziņkalns.
 grobiņa.
 grods.
@@ -36437,6 +36594,8 @@ grupai.
 grupapraide.
 grupas.
 grupā.
+grupām.
+grupās.
 grupeles.
 grupējums.
 grupēt.
@@ -36535,6 +36694,7 @@ grūžoties.
 grūžu.
 gŗamatu.
 gŗāmata.
+gs.
 gs..
 gtkam.
 guama.
@@ -36790,6 +36950,7 @@ guste.
 gusts.
 gutaperča.
 guturāls.
+guva.
 guvāmies.
 guvās.
 guvāties.
@@ -37865,7 +38026,10 @@ ho.
 hobijs.
 hodom.
 hoha.
+hokeja.
+hokejā.
 hokejisti.
+hokejistos.
 hokejists.
 hokejistu.
 hokejs.
@@ -38023,6 +38187,8 @@ hronometrisks.
 hronometrists.
 hronometrs.
 htmlā.
+http.
+https.
 hudzona.
 hugenots.
 hugo.
@@ -38568,6 +38734,7 @@ iecienāmāku.
 iecienīt.
 iecienītājs.
 iecienītāk.
+iecienītākā.
 iecienošies.
 ieciest.
 iecietināt.
@@ -38633,6 +38800,8 @@ iečurkstināt.
 iedaba.
 iedabūt.
 iedakšot.
+iedala.
+iedalās.
 iedale.
 iedalījums.
 iedalīt.
@@ -40881,6 +41050,7 @@ ielādēt.
 ielādētājs.
 ielādi.
 ielāgot.
+ielām.
 ielāpains.
 ielāpi.
 ielāps.
@@ -42437,6 +42607,7 @@ ierastākajos.
 ierastākie.
 ierastāko.
 ierastās.
+ierasti.
 ierasties.
 ierastība.
 ierasto.
@@ -43724,6 +43895,7 @@ iespēdams.
 iespēj.
 iespēja.
 iespējam.
+iespējama.
 iespējamajām.
 iespējamā.
 iespējamām.
@@ -44073,6 +44245,7 @@ iestādami.
 iestādams.
 iestāde.
 iestādes.
+iestādēm.
 iestādēs.
 iestādi.
 iestādīja.
@@ -44865,6 +45038,7 @@ ietilpīgam.
 ietilpīgām.
 ietilpīgs.
 ietilpīgums.
+ietilpst.
 ietilpt.
 ietinama.
 ietinamā.
@@ -45067,6 +45241,7 @@ ietvaros.
 ietvars.
 ietvaru.
 ietve.
+ietver.
 ietveramies.
 ietveras.
 ietveraties.
@@ -45399,6 +45574,7 @@ ievērību.
 ievērojamas.
 ievērojamāk.
 ievērojamākas.
+ievērojami.
 ievērojams.
 ievērojām.
 ievērojis.
@@ -45894,6 +46070,7 @@ igauņu.
 ignalina.
 ignats.
 ignorance.
+ignorē.
 ignorēja.
 ignorēšanu.
 ignorēt.
@@ -45957,6 +46134,7 @@ ikšķiles.
 ikšķilē.
 ikšķilietis.
 ikviena.
+ikvienam.
 ikvienas.
 ikviens.
 ilakrilskābe.
@@ -46068,6 +46246,7 @@ ilzes.
 ilzeskalns.
 ilzi.
 iļģuciems.
+iļja.
 image.
 imaginārs.
 imalda.
@@ -46106,6 +46285,7 @@ imperiālistu.
 imperiāls.
 impetigo.
 impērija.
+impērijas.
 impērisks.
 impīčments.
 implantācija.
@@ -46221,6 +46401,7 @@ indiferents.
 indigo.
 indigokarmīns.
 indija.
+indijas.
 indijs.
 indikatīvs.
 indikatora.
@@ -46308,6 +46489,7 @@ infinitīvs.
 inflācija.
 inflāciju.
 influence.
+info.
 infooāze.
 infopasaule.
 informatizācija.
@@ -46535,6 +46717,7 @@ interesantākais.
 interesantākas.
 interesantākā.
 interesantākās.
+interesantāko.
 interesantākos.
 interesanti.
 interesants.
@@ -46675,6 +46858,7 @@ invalīdes.
 invalīdiem.
 invalīds.
 invalīdsportists.
+invalīdu.
 invariants.
 invazīvs.
 invāzija.
@@ -46845,6 +47029,7 @@ islamabada.
 islamticīgs.
 islande.
 islandietis.
+islāma.
 islāmists.
 islāms.
 issue.
@@ -46870,6 +47055,7 @@ ita.
 itakonskābe.
 itālietis.
 itālija.
+itālijas.
 itālis.
 itālisks.
 itālītis.
@@ -47436,6 +47622,7 @@ izceldams.
 izcelies.
 izcelieties.
 izcelsme.
+izcelsmes.
 izcelšana.
 izcelšanās.
 izcelšoties.
@@ -47661,6 +47848,7 @@ izcīnāmāki.
 izcīnāmāko.
 izcīnāmāks.
 izcīnāmāku.
+izcīnīja.
 izcīnīt.
 izcīnītājs.
 izcīnītāk.
@@ -48514,6 +48702,7 @@ izgleznotājs.
 izglītība.
 izglītībai.
 izglītības.
+izglītību.
 izglīto.
 izglītojos.
 izglītot.
@@ -49838,6 +50027,7 @@ izlasāmāko.
 izlasāmāks.
 izlasāmāku.
 izlase.
+izlasei.
 izlases.
 izlasi.
 izlasīja.
@@ -50407,6 +50597,7 @@ izmantošanu.
 izmantošu.
 izmantot.
 izmantota.
+izmantotas.
 izmantotājs.
 izmantoti.
 izmantots.
@@ -53672,6 +53863,7 @@ izšķinoši.
 izšķinošo.
 izšķinošs.
 izšķinošu.
+izšķir.
 izšķiramies.
 izšķiras.
 izšķiraties.
@@ -53946,6 +54138,7 @@ izteiktāks.
 izteiktāku.
 izteikti.
 izteikties.
+izteikts.
 izteikumiem.
 izteikums.
 izteikusies.
@@ -54476,6 +54669,7 @@ izveidoju.
 izveidojums.
 izveidojusies.
 izveidojušies.
+izveidošana.
 izveidošanai.
 izveidošanu.
 izveidot.
@@ -54485,6 +54679,7 @@ izveidotājs.
 izveidoti.
 izveidoto.
 izveidots.
+izveidotu.
 izveikdama.
 izveikdamas.
 izveikdami.
@@ -54589,6 +54784,7 @@ izvēlējos.
 izvēlējums.
 izvēlējusies.
 izvēlējušies.
+izvēlēsimies.
 izvēlēt.
 izvēlētā.
 izvēlēties.
@@ -54602,6 +54798,7 @@ izvēlni.
 izvēlņu.
 izvēlņvadāms.
 izvēlos.
+izvēloties.
 izvēlusies.
 izvēlušies.
 izvēmāmies.
@@ -54727,9 +54924,11 @@ izvicot.
 izviebt.
 izviesoties.
 izviest.
+izvietojies.
 izvietojuma.
 izvietojums.
 izvietojumu.
+izvietojusies.
 izvietot.
 izvietotājs.
 izvijama.
@@ -55118,6 +55317,7 @@ izžvadzināt.
 izžvīkstēt.
 yamaha.
 yokto.
+youtube.
 yōs.
 ī.
 īd.
@@ -55210,6 +55410,7 @@ yōs.
 īries.
 īriete.
 īrija.
+īrijas.
 īrisa.
 īriss.
 īrisspiedums.
@@ -55586,6 +55787,7 @@ jaunizveidojams.
 jaunizveidot.
 jaunizveidoto.
 jaunība.
+jaunību.
 jaunjelgava.
 jaunjelgavas.
 jaunjelgavā.
@@ -55739,6 +55941,7 @@ jautāju.
 jautājumā.
 jautājumi.
 jautājumiem.
+jautājumos.
 jautājums.
 jautājumu.
 jautājumus.
@@ -55748,6 +55951,7 @@ jautāta.
 jautātājs.
 jautiet.
 jautis.
+jautrā.
 jautrākas.
 jautrināt.
 jautris.
@@ -65493,7 +65697,6 @@ jāmaitā.
 jāmaitājas.
 jāmaketē.
 jāmakrokopē.
-jāmaksā!.
 jāmaksā.
 jāmaksājas.
 jāmaksimizē.
@@ -78877,6 +79080,7 @@ jehovā.
 jehovu.
 jel.
 jelgava.
+jelgavas.
 jelgavā.
 jelgavnieks.
 jelgavu.
@@ -79066,6 +79270,7 @@ jorka.
 jorkšīra.
 josla.
 joslains.
+joslas.
 joslā.
 josta.
 jostasvieta.
@@ -79170,6 +79375,8 @@ juristkonsulte.
 jurists.
 jurta.
 just.
+justa.
+justam.
 justāka.
 justākais.
 justākajai.
@@ -79711,6 +79918,7 @@ kalpaks.
 kalpināt.
 kalpinātājs.
 kalpība.
+kalpo.
 kalpojums.
 kalpojusi.
 kalpone.
@@ -80121,6 +80329,7 @@ karaliskā.
 karalisks.
 karaliskums.
 karaliste.
+karaļa.
 karaļčūska.
 karaļdēls.
 karaļmeita.
@@ -80152,6 +80361,7 @@ karavāna.
 karavīri.
 karavīrs.
 karavīru.
+karā.
 karājās.
 karātavas.
 karāties.
@@ -80382,6 +80592,7 @@ kartupeļiem.
 kartupeļu.
 kartupeļus.
 kartupeļuspinātu.
+karu.
 karulis.
 karus.
 karuselis.
@@ -80486,6 +80697,7 @@ katalizēt.
 katalītisks.
 katalīze.
 kataloga.
+katalogā.
 katalogi.
 katalogiem.
 katalogs.
@@ -80520,6 +80732,7 @@ kategorija.
 kategorijas.
 kategorijā.
 kategorijām.
+kategorijās.
 kategoriski.
 kategorisks.
 kategoriskums.
@@ -80561,6 +80774,7 @@ katolis.
 katolisks.
 katoļticība.
 katoļticīgs.
+katoļu.
 katordznieks.
 katorga.
 katra.
@@ -80663,9 +80877,11 @@ kaunpilna.
 kaunpilns.
 kauns.
 kaunums.
+kaunumu.
 kauņa.
 kaups.
 kaurt.
+kausa.
 kausā.
 kausējums.
 kausēt.
@@ -80899,6 +81115,7 @@ kāpnēm.
 kāpnītes.
 kāpņu.
 kāpņutelpa.
+kāpņutelpās.
 kāpņveida.
 kāposta.
 kāpostgalva.
@@ -81254,6 +81471,7 @@ kilometrāža.
 kilometriem.
 kilometros.
 kilometrs.
+kilometru.
 kilometrus.
 kilovats.
 kilovatstunda.
@@ -81751,9 +81969,11 @@ klostere.
 klosteris.
 klozetpods.
 klozets.
+kluba.
 klubiem.
 klubkrēsls.
 klubs.
+klubu.
 klucis.
 klucīši.
 klucīšiem.
@@ -81878,6 +82098,7 @@ kļūt.
 kļūtu.
 km.
 kms.
+knab.
 knaģēju.
 knaģis.
 knaibīt.
@@ -82265,6 +82486,7 @@ koknesis.
 koknozare.
 kokogle.
 kokons.
+kokos.
 kokoseļļa.
 kokospalma.
 kokosrieksts.
@@ -82433,6 +82655,7 @@ kolumbietis.
 kolumbija.
 koma.
 komanda.
+komandai.
 komandants.
 komandantstunda.
 komandantūra.
@@ -82491,11 +82714,13 @@ komendants.
 komensālisms.
 komentators.
 komentāri.
+komentāriem.
 komentārs.
 komentāru.
 komentārus.
 komentējums.
 komentēt.
+komentētāji.
 komentētājs.
 komentētus.
 komercaģents.
@@ -84120,6 +84345,7 @@ kremācija.
 kremēt.
 kremētājs.
 kremlis.
+kremļa.
 kreņķēties.
 kreņķis.
 kreoliete.
@@ -84180,10 +84406,14 @@ krietnība.
 krietns.
 krietnums.
 krieva.
+krievi.
 krieviem.
 krieviete.
 krievija.
+krievijai.
+krievijas.
 krievijā.
+krieviju.
 krieviski.
 krievisks.
 krievs.
@@ -84199,6 +84429,7 @@ kriksis.
 krikšķēt.
 krikums.
 krima.
+krimas.
 krimilde.
 kriminalitāte.
 kriminalizācija.
@@ -84524,6 +84755,7 @@ krustmija.
 krustnagliņa.
 krustnesis.
 krustojuma.
+krustojumā.
 krustojumos.
 krustojums.
 krustojumu.
@@ -84658,6 +84890,7 @@ kuģojums.
 kuģošana.
 kuģot.
 kuģotājs.
+kuģu.
 kuģubūve.
 kuilis.
 kuitala.
@@ -84719,6 +84952,7 @@ kults.
 kulturālība.
 kulturāls.
 kultūra.
+kultūrai.
 kultūrainava.
 kultūras.
 kultūras .
@@ -84747,6 +84981,7 @@ kultūršķirne.
 kultūršoks.
 kultūrtauta.
 kultūrtehnisks.
+kultūru.
 kultūrvērtība.
 kultūrvēsture.
 kultūrvēsturisks.
@@ -84935,6 +85170,7 @@ kurnēt.
 kurnētājs.
 kurnoņa.
 kurnošu.
+kuro.
 kurortoloģija.
 kuros.
 kurošies.
@@ -85389,6 +85625,7 @@ kwh.
 ķeraties.
 ķeries.
 ķerieties.
+ķermeni.
 ķermenis.
 ķermenisks.
 ķermeņa.
@@ -85570,8 +85807,10 @@ kwh.
 ķirupe.
 ķirurga.
 ķirurgs.
+ķirurgu.
 ķirurģe.
 ķirurģija.
+ķirurģijas.
 ķirurģisks.
 ķirzaka.
 ķite.
@@ -85598,6 +85837,7 @@ kwh.
 ķīļveida.
 ķīļveidīgs.
 ķīmija.
+ķīmijas.
 ķīmijterapija.
 ķīmiķis.
 ķīmioreceptors.
@@ -85672,7 +85912,6 @@ labdabīgs.
 labdaris.
 labdarība.
 labdarīgs.
-labdien!.
 labdien.
 labdiena.
 labdienas.
@@ -85684,7 +85923,6 @@ labestīgā.
 labestīgs.
 labestīgu.
 labējs.
-labi!.
 labi.
 labializācija.
 labializējums.
@@ -85888,6 +86126,7 @@ laimi.
 laimiņš.
 laimis.
 laimīga.
+laimīgākā.
 laimīgāks.
 laimīgās.
 laimīgi.
@@ -86052,6 +86291,7 @@ lapasa.
 lapaspuse.
 lapā.
 lapām.
+lapās.
 lapdale.
 lapegle.
 lapegli.
@@ -86144,6 +86384,7 @@ lasu.
 lasvegasa.
 lašupe.
 lašveidīgs.
+lat.
 lata.
 latai.
 late.
@@ -86179,6 +86420,7 @@ latus.
 latvānis.
 latvenergo.
 latvia.
+latvieši.
 latviešiem.
 latviešu.
 latviešulietuviešu.
@@ -86188,6 +86430,7 @@ latvietim.
 latvietis.
 latvietība.
 latvija.
+latvijai.
 latvijas.
 latvijā.
 latviju.
@@ -86225,6 +86468,7 @@ lauks.
 lauksaimniecisks.
 lauksaimniecība.
 lauksaimniecībai.
+lauksaimniecības.
 lauksaimnieks.
 laukstrādnieks.
 laukšpats.
@@ -86232,6 +86476,7 @@ lauktehnika.
 lauktiece.
 lauktranzistors.
 lauku.
+laukuma.
 laukumains.
 laukumā.
 laukumiņš.
@@ -86452,6 +86697,7 @@ ledgriezis.
 ledlauzis.
 ledot.
 ledstāve.
+ledu.
 ledum.
 ledus.
 ledusburāšana.
@@ -86720,6 +86966,7 @@ lestadiānis.
 lestene.
 lestera.
 lesteršīra.
+leta.
 letarģija.
 letarģisks.
 letāls.
@@ -86974,6 +87221,7 @@ lidojumu.
 lidonis.
 lidosim.
 lidosta.
+lidostas.
 lidostā.
 lidostu.
 lidot.
@@ -86987,6 +87235,7 @@ lidspalva.
 lidstunda.
 lidvāvere.
 lidvirsma.
+lidz.
 liec.
 liecamies.
 liecas.
@@ -87032,6 +87281,7 @@ lieglaime.
 liegs.
 liegšoties.
 liegt.
+liegts.
 liegums.
 liegusies.
 liegušies.
@@ -87119,6 +87369,7 @@ lielā.
 lielāka.
 lielākais.
 lielākajā.
+lielākajām.
 lielākas.
 lielākā.
 lielākām.
@@ -87137,6 +87388,7 @@ lielbārdis.
 lielblīvuma.
 lielbloku.
 lielbritānija.
+lielbritānijas.
 lielburžuāzija.
 lielceltne.
 lielceļš.
@@ -87171,6 +87423,7 @@ lieliem.
 lielindustrija.
 lieliniecisks.
 lielinieks.
+lieliski.
 lielisks.
 lieliskums.
 lielizmēra.
@@ -87309,6 +87562,7 @@ lienot.
 lienu.
 liepa.
 liepāja.
+liepājas.
 liepājā.
 liepājnieks.
 liepājs.
@@ -87407,6 +87661,7 @@ lietotāja.
 lietotājam.
 lietotājdraudzīgs.
 lietotāji.
+lietotājiem.
 lietotājs.
 lietotāju.
 lietotājus.
@@ -87416,6 +87671,7 @@ lietotne.
 lietotnes.
 lietotni.
 lietoto.
+lietots.
 lietotu.
 lietpratējs.
 lietpratība.
@@ -87450,6 +87706,7 @@ lievenis.
 lieveņa.
 liezere.
 liftnieks.
+liftos.
 lifts.
 ligatūra.
 ligija.
@@ -87527,6 +87784,7 @@ likumdevējs.
 likumdevējsapulce.
 likumdevējvara.
 likumdošana.
+likumi.
 likumiem.
 likumisks.
 likumiskums.
@@ -87547,6 +87805,8 @@ likumsakarību.
 likumsakarīgas.
 likumsakarīgs.
 likumsargs.
+likumu.
+likumus.
 likumvalde.
 likusi.
 likusies.
@@ -87693,6 +87953,7 @@ litavnieks.
 litānija.
 litene.
 literatūra.
+literatūras.
 literatūrā.
 literatūrfilozofe.
 literatūrkritika.
@@ -87733,6 +87994,7 @@ liturģija.
 liturģisks.
 liverpūle.
 livonija.
+livonijas.
 livreja.
 liza.
 lizamīnzaļais.
@@ -87750,6 +88012,7 @@ lība.
 lībagi.
 lībai.
 lībeka.
+lībiešu.
 lībietis.
 lībija.
 lībisks.
@@ -87757,11 +88020,13 @@ lību.
 līcenis.
 līcējs.
 līcis.
+līča.
 līčots.
 līčupe.
 līda.
 līdacēns.
 līdaka.
+līdera.
 līderes.
 līderis.
 līderība.
@@ -87926,6 +88191,7 @@ līgatne.
 līgatni.
 līgava.
 līgavainis.
+līgā.
 līgo.
 līgojās.
 līgojums.
@@ -88046,6 +88312,7 @@ līmviela.
 līna.
 līnija.
 līnijapstrāde.
+līnijas.
 līnijbūvniecība.
 līnijdati.
 līnijdeja.
@@ -88065,6 +88332,7 @@ līnijspektrs.
 līnijspriegums.
 līnijtiesa.
 līnijtiesnesis.
+līniju.
 līnijveida.
 līnis.
 līņā.
@@ -88126,6 +88394,7 @@ līzinga.
 līzings.
 lmt.
 lnb.
+lnt.
 loberģi.
 lobēlija.
 lobēt.
@@ -88459,6 +88728,7 @@ lūcija.
 lūcijs.
 lūdolfs.
 lūdza.
+lūdzam.
 lūdzamies.
 lūdzas.
 lūdzaties.
@@ -88592,6 +88862,7 @@ lvs.
 ļaunu.
 ļaunuma.
 ļaunums.
+ļaunumu.
 ļaunumzāle.
 ļaunvēlis.
 ļaus.
@@ -88670,8 +88941,10 @@ m².
 m³.
 machine.
 maciņu.
+mačā.
 mačete.
 mačo.
+mačos.
 mačs.
 madagaskara.
 madaļa.
@@ -88683,6 +88956,7 @@ madeira.
 madis.
 madliena.
 madona.
+madonas.
 madonā.
 madonietis.
 madonna.
@@ -88851,6 +89125,8 @@ maiņtirdzniecība.
 maiņu.
 maiņzvaigzne.
 maira.
+mairi.
+mairim.
 mairis.
 mairita.
 mairitu.
@@ -89076,6 +89352,7 @@ malšanās.
 malšoties.
 malt.
 malta.
+maltas.
 maltietis.
 maltīte.
 maltītes.
@@ -89306,6 +89583,7 @@ marakeša.
 maralbriedis.
 marantu.
 marasms.
+maratona.
 maratonists.
 maratons.
 maratonskrējējs.
@@ -89343,6 +89621,7 @@ marianna.
 marihuāna.
 marihuānists.
 marija.
+marijas.
 marika.
 marimba.
 marina.
@@ -89435,6 +89714,7 @@ masačūsetsa.
 masalas.
 masaliņas.
 masas.
+masā.
 masāža.
 masāžas.
 masāžu.
@@ -89556,6 +89836,7 @@ materialitāte.
 materializācija.
 materializējums.
 materializēt.
+materiāla.
 materiālais.
 materiālajā.
 materiālajām.
@@ -90053,6 +90334,7 @@ mākslas.
 māksliniecisks.
 mākslinieciskums.
 mākslinieks.
+mākslinieku.
 mākslīgi.
 mākslīgo.
 mākslīgs.
@@ -90060,6 +90342,7 @@ mākslīgums.
 mākslot.
 mākslotība.
 mākslots.
+mākslu.
 mākšana.
 mākšanās.
 mākšoties.
@@ -90193,6 +90476,8 @@ mātesuzņēmums.
 māti.
 mātišķīgs.
 mātišķs.
+mātīte.
+mātītes.
 māvāmies.
 māvās.
 māvāties.
@@ -90234,6 +90519,8 @@ medainums.
 medaljons.
 medalus.
 medaļa.
+medaļas.
+medaļām.
 medaļnieks.
 medene.
 mediators.
@@ -90255,6 +90542,7 @@ meditatīvs.
 meditācija.
 meditēt.
 meditētājs.
+medī.
 medības.
 medību.
 medīgs.
@@ -90792,6 +91080,7 @@ meteostacija.
 metējs.
 meti.
 metiens.
+metienu.
 metienus.
 metieris.
 meties.
@@ -91754,7 +92043,11 @@ miljards.
 miljonais.
 miljonārs.
 miljondaļa.
+miljoni.
+miljoniem.
 miljons.
+miljonu.
+miljonus.
 millennium.
 millere.
 millers.
@@ -91790,6 +92083,7 @@ milztoši.
 milztošo.
 milztošs.
 milztošu.
+milzu.
 milzumliels.
 milzums.
 mimeogrāfisks.
@@ -91968,6 +92262,7 @@ mironis.
 miroņgalva.
 miroņkauls.
 mirres.
+mirst.
 mirstība.
 mirstīgo.
 mirstīgs.
@@ -92145,6 +92440,7 @@ mīlēšanos.
 mīlēt.
 mīlētājs.
 mīlēties.
+mīlētu.
 mīlgrāvis.
 mīlinājums.
 mīlināt.
@@ -92290,6 +92586,7 @@ modernizējums.
 modernizēt.
 modernizētājs.
 moderns.
+modes.
 modē.
 modēmu.
 modies.
@@ -92553,6 +92850,7 @@ moralizētājs.
 moratorijs.
 morālās.
 morāle.
+morāles.
 morāli.
 morālisks.
 morālists.
@@ -92734,6 +93032,7 @@ muitot.
 muitu.
 muizenieki.
 muiža.
+muižas.
 muižkungs.
 muižniecisks.
 muižniecība.
@@ -93034,6 +93333,7 @@ mūsdienīgums.
 mūsdienu.
 mūsējā.
 mūsējie.
+mūsējiem.
 mūsējo.
 mūsējs.
 mūslaiki.
@@ -93088,6 +93388,7 @@ nacionalizācija.
 nacionalizēt.
 nacionālajā.
 nacionālā.
+nacionālās.
 nacionālboļševiks.
 nacionāldemokrāts.
 nacionālisms.
@@ -93122,6 +93423,7 @@ naftalīns.
 naftalīnskābe.
 naftalīntetrakarbonskābe.
 naftapgāde.
+naftas.
 naftasvads.
 naftālskābe.
 naftenāts.
@@ -93150,6 +93452,7 @@ naidnieks.
 naidoties.
 naidpilns.
 naids.
+naidu.
 naigs.
 nairobi.
 naiva.
@@ -93958,6 +94261,7 @@ neatbilst.
 neatbilstība.
 neatbilstošas.
 neatbrauca.
+neatceras.
 neatcerējās.
 neatcerējos.
 neatceros.
@@ -94305,6 +94609,7 @@ neceru.
 necēlās.
 necēlējs.
 neciena.
+necieņu.
 necieš.
 neciešam.
 neciešama.
@@ -94492,7 +94797,7 @@ negantos.
 negantu.
 negantums.
 negarantē.
-negarlaikojies!.
+negarlaikojies.
 negaršīgums.
 negatavojas.
 negatīvās.
@@ -95358,6 +95663,7 @@ nejūtīga.
 nejūtīgums.
 nejūtos.
 nejūtu.
+neka.
 nekad.
 nekaiš.
 nekaitīgums.
@@ -95832,6 +96138,7 @@ nenoraukta.
 nenoraukti.
 nenoraukts.
 nenorādīja.
+nenorijiet.
 nenormāla.
 nenormālā.
 nenormāli.
@@ -96086,6 +96393,7 @@ nepamana.
 nepamanījām.
 nepamanīju.
 nepamatojums.
+nepamatotajam.
 nepamet.
 nepamodās.
 nepanākums.
@@ -97150,6 +97458,7 @@ nesapletām.
 nesapletāt.
 nesapleti.
 nesapost.
+nesaprast.
 nesapraša.
 nesaprašanu.
 nesaprata.
@@ -97410,6 +97719,7 @@ neskartas.
 neskarti.
 neskatās.
 neskatījos.
+neskatīsies.
 neskatīšos.
 neskatos.
 neskatoties.
@@ -97436,6 +97746,7 @@ nespēcība.
 nespēcīga.
 nespēcīgums.
 nespēj.
+nespēja.
 nespējām.
 nespējība.
 nespējīga.
@@ -97533,6 +97844,7 @@ neteica.
 neteicu.
 neteikt.
 neteiktu.
+netic.
 neticami.
 neticas.
 neticēja.
@@ -97552,6 +97864,7 @@ netiks.
 netikšot.
 netikšu.
 netikties.
+netiktu.
 netiku.
 netikums.
 netincinājām.
@@ -97897,6 +98210,7 @@ nezēlāt.
 nezēli.
 nezēlu.
 nezin.
+nezina.
 nezinam.
 nezināja.
 nezināju.
@@ -97980,6 +98294,7 @@ nēši.
 nēzdogs.
 nfs.
 nfsd.
+nhl.
 niacīns.
 nianse.
 niansējums.
@@ -98281,6 +98596,7 @@ nobakstošies.
 nobalēt.
 nobalot.
 nobalsināt.
+nobalsoju.
 nobalsojums.
 nobalsot.
 nobalsotājs.
@@ -99220,8 +99536,10 @@ nododošu.
 nododot.
 nododoties.
 nododu.
+nodokli.
 nodoklis.
 nodokļa.
+nodokļi.
 nodokļiem.
 nodokļu.
 nodokļus.
@@ -99290,6 +99608,7 @@ nodriskāt.
 nodrīvēt.
 nodrose.
 nodrosējums.
+nodrošina.
 nodrošināju.
 nodrošinājumfonds.
 nodrošinājums.
@@ -99772,6 +100091,7 @@ nogalēm.
 nogalēs.
 nogalēt.
 nogali.
+nogalina.
 nogalināt.
 nogalinātājs.
 noganīt.
@@ -101163,6 +101483,7 @@ nokrimtušus.
 nokrist.
 nokristīt.
 nokrišņi.
+nokrišņu.
 nokrita.
 nokritāmies.
 nokritās.
@@ -103309,6 +103630,7 @@ noraut.
 norauti.
 noravēt.
 noražot.
+norāda.
 norādama.
 norādamas.
 norādami.
@@ -103582,6 +103904,7 @@ norisēt.
 norisi.
 norisies.
 norisieties.
+norisināsies.
 norisināties.
 norisīsies.
 norisīsieties.
@@ -103746,6 +104069,7 @@ norūpēties.
 norūsēt.
 norvēģiete.
 norvēģija.
+norvēģijas.
 norvēģijā.
 norvēģis.
 norvēģisks.
@@ -103815,6 +104139,7 @@ nosaukšanās.
 nosaukšoties.
 nosaukt.
 nosaukts.
+nosaukuma.
 nosaukumgrāmata.
 nosaukumi.
 nosaukumos.
@@ -106026,6 +106351,8 @@ noteiktāku.
 noteikti.
 noteiktība.
 noteikts.
+noteiktu.
+noteikumi.
 noteikumiem.
 noteikums.
 noteikumu.
@@ -106424,8 +106751,10 @@ nourrāt.
 noutebuki.
 noūjināt.
 nova.
+novada.
 novadam.
 novadautors.
+novadā.
 novadāt.
 novadbūve.
 novadcaurule.
@@ -106446,6 +106775,7 @@ novadpētniecisks.
 novadpētniecība.
 novadpētnieks.
 novads.
+novadu.
 novadule.
 novagot.
 novaibstīt.
@@ -106951,6 +107281,7 @@ nozaimot.
 nozaimotājs.
 nozalgot.
 nozare.
+nozares.
 nozarē.
 nozarojums.
 nozarpiederība.
@@ -107064,6 +107395,7 @@ nozīdusies.
 nozīdušies.
 nozīme.
 nozīmei.
+nozīmes.
 nozīmē.
 nozīmēja.
 nozīmējums.
@@ -107072,6 +107404,7 @@ nozīmētājiestāde.
 nozīmētājs.
 nozīmēts.
 nozīmētu.
+nozīmi.
 nozīmība.
 nozīmīga.
 nozīmīgas.
@@ -107299,6 +107632,7 @@ nožūt.
 nožvadzēt.
 nožvadzināt.
 nožvīkstēt.
+nr.
 nr..
 nt.
 ntajiem.
@@ -107545,6 +107879,7 @@ objektorientētajā.
 objektorientētā.
 objektplūsma.
 objekts.
+objektu.
 obligācija.
 obligāta.
 obligātajām.
@@ -107566,6 +107901,7 @@ obskurantisms.
 obskurants.
 obstrukcija.
 obstrukcionists.
+occurred.
 ocl.
 oclc.
 od.
@@ -107668,9 +108004,11 @@ oho.
 ohotska.
 oi.
 ojārs.
+ok.
 okeanogrāfija.
 okeanogrāfisks.
 okeanogrāfs.
+okeāna.
 okeānija.
 okeānisks.
 okeāns.
@@ -107749,6 +108087,7 @@ okultisms.
 okults.
 okupants.
 okupācija.
+okupācijas.
 okupēcijas.
 okupējusi.
 okupēt.
@@ -107786,6 +108125,8 @@ oligotrofisks.
 olimpiāde.
 olimpiādi.
 olimpietis.
+olimpiskajām.
+olimpisko.
 olimpisks.
 olimps.
 olimpus.
@@ -107820,6 +108161,7 @@ ombuds.
 ombudsmenis.
 omega.
 omei.
+omes.
 omīte.
 omlete.
 ommetrs.
@@ -107968,6 +108310,7 @@ orbitotomija.
 orbīta.
 orda.
 ordenis.
+ordeņa.
 ordeņpūcīte.
 ordeņzvaigzne.
 orderis.
@@ -107986,8 +108329,11 @@ orests.
 org.
 organella.
 organisks.
+organisma.
 organismam.
+organismā.
 organisms.
+organismu.
 organizatora.
 organizatore.
 organizatori.
@@ -107995,6 +108341,7 @@ organizatoriski.
 organizatorisks.
 organizators.
 organizācija.
+organizācijas.
 organizē.
 organizēja.
 organizēšanas.
@@ -108029,7 +108376,6 @@ orģināldarbs.
 orģinālteksts.
 orhideja.
 orhidejas.
-orhideju!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!.
 orhideju.
 orhidometrs.
 ori.
@@ -108157,6 +108503,7 @@ oskars.
 osksibutirāts.
 oslo.
 osmanis.
+osmaņu.
 osmāts.
 osmijs.
 osmijskābe.
@@ -108280,6 +108627,7 @@ ozola.
 ozolaine.
 ozolājs.
 ozoliem.
+ozoliņš.
 ozolīte.
 ozolkalns.
 ozolkoks.
@@ -109747,12 +110095,15 @@ pagarlaikot.
 pagarot.
 pagarš.
 pagaršot.
+pagasta.
 pagastā.
+pagastiem.
 pagastmāja.
 pagastnams.
 pagasts.
 pagastskola.
 pagasttiesa.
+pagastu.
 pagastvalde.
 pagastvecis.
 pagatavoja.
@@ -113684,6 +114035,7 @@ parakstītājpuse.
 parakstītājs.
 parakstītājvalsts.
 parakstīti.
+parakstīties.
 parakstošies.
 parakstot.
 paraksts.
@@ -113910,6 +114262,7 @@ parādīts.
 parādnieks.
 parādniekvalsts.
 parādošies.
+parādot.
 parādraksts.
 parāds.
 parādsaistība.
@@ -114216,6 +114569,7 @@ parks.
 parkšķis.
 parku.
 parķis.
+parlamenta.
 parlamentārietis.
 parlamentārisks.
 parlamentārisms.
@@ -114297,6 +114651,7 @@ parters.
 particips.
 partija.
 partijai.
+partijas.
 partijnieks.
 partiju.
 partikula.
@@ -114405,6 +114760,7 @@ pasaukšana.
 pasaukt.
 pasaukums.
 pasaule.
+pasaulei.
 pasaules.
 pasaulē.
 pasauli.
@@ -115464,6 +115820,7 @@ pastatne.
 pastatnis.
 pastatošies.
 pastā.
+pastāsti.
 pastāstīja.
 pastāstījām.
 pastāstīju.
@@ -116894,6 +117251,7 @@ patupušies.
 patur.
 paturēju.
 paturēt.
+paturētas.
 paturētājs.
 paturot.
 paturpinājums.
@@ -117083,6 +117441,7 @@ pavadoņkuģis.
 pavadoņpilsēta.
 pavadoņvalsts.
 pavadošies.
+pavadot.
 pavadprece.
 pavadraksts.
 pavadrēķins.
@@ -117743,6 +118102,7 @@ pazīmēm.
 pazīmēt.
 pazīmju.
 pazīst.
+pazīstama.
 pazīstamas.
 pazīstamāk.
 pazīstamāka.
@@ -122800,6 +123160,7 @@ pārsnaust.
 pārsnausts.
 pārsnauž.
 pārsnaužu.
+pārsniedz.
 pārsniedzama.
 pārsniedzamā.
 pārsniedzami.
@@ -122842,6 +123203,7 @@ pārspēdama.
 pārspēdamas.
 pārspēdami.
 pārspēdams.
+pārspēja.
 pārspējamāka.
 pārspējamākā.
 pārspējamāki.
@@ -123069,6 +123431,7 @@ pārstāstīt.
 pārstāstītājs.
 pārstāšana.
 pārstāt.
+pārstāv.
 pārstāve.
 pārstāvēja.
 pārstāvēt.
@@ -124990,6 +125353,7 @@ pelni.
 pelniem.
 pelnījis.
 pelnījusi.
+pelnījuši.
 pelnīt.
 pelnītājs.
 pelnītāju.
@@ -125044,6 +125408,7 @@ pensijas.
 pensijā.
 pensiju.
 pensilvānija.
+pensionārēm.
 pensionāri.
 pensionārs.
 pensionēt.
@@ -125256,6 +125621,7 @@ personālsastāvs.
 personālservitūts.
 personāluzskaite.
 personālvadība.
+personām.
 personāžs.
 personificējums.
 personificēt.
@@ -126146,6 +126512,7 @@ piedejot.
 pieder.
 piederēt.
 piederība.
+piederības.
 piederību.
 piederīgos.
 piederīgs.
@@ -126512,6 +126879,7 @@ piedzirksteļot.
 piedzīrot.
 piedzīšoties.
 piedzīt.
+piedzīvoja.
 piedzīvojām.
 piedzīvojis.
 piedzīvoju.
@@ -127006,6 +127374,7 @@ piejūkošo.
 piejūkošs.
 piejūkošu.
 piejūra.
+piejūras.
 piekabe.
 piekabes.
 piekabinājums.
@@ -127105,6 +127474,7 @@ piekaušana.
 piekaut.
 piekauts.
 piekāje.
+piekāpās.
 piekāpdama.
 piekāpdamas.
 piekāpdami.
@@ -127457,6 +127827,8 @@ piekožoties.
 piekožu.
 piekrakšķināt.
 piekraste.
+piekrastes.
+piekrastē.
 piekraudama.
 piekraudamas.
 piekraudami.
@@ -127667,6 +128039,7 @@ pieķengāt.
 pieķepēt.
 pieķepināt.
 pieķept.
+pieķer.
 pieķeramies.
 pieķeras.
 pieķeraties.
@@ -128662,6 +129035,7 @@ pienācējs.
 pienācies.
 pienācieties.
 pienācis.
+pienācīgi.
 pienācīgs.
 pienācos.
 pienācošies.
@@ -129411,6 +129785,7 @@ pierādāmāks.
 pierādāmāku.
 pierādāmība.
 pierādījām.
+pierādījās.
 pierādījums.
 pierādīt.
 pierādītājs.
@@ -131881,6 +132256,7 @@ pievētīt.
 pievēžot.
 pievicot.
 pieviebt.
+pievieno.
 pievienoja.
 pievienoju.
 pievienojumprogramma.
@@ -132356,7 +132732,9 @@ pilsēta.
 pilsētai.
 pilsētapmetne.
 pilsētas.
+pilsētā.
 pilsētām.
+pilsētās.
 pilsētbūve.
 pilsētbūvniecisks.
 pilsētbūvniecība.
@@ -132383,6 +132761,7 @@ pilskalns.
 pilskundze.
 pilskungs.
 pilsone.
+pilsonim.
 pilsonis.
 pilsonisks.
 pilsonība.
@@ -132390,6 +132769,7 @@ pilsonības.
 pilsoņi.
 pilsoņkarš.
 pilsoņtiesības.
+pilsoņu.
 pilsrundāle.
 pilsskola.
 pilsveidīgs.
@@ -132562,6 +132942,7 @@ pirmajā.
 pirmajām.
 pirmajās.
 pirmajiem.
+pirmajos.
 pirmapskate.
 pirmapstrāde.
 pirmatklājējs.
@@ -132894,6 +133275,7 @@ planetoloģija.
 planējums.
 planēt.
 planēta.
+planētas.
 planētā.
 planētājs.
 planieris.
@@ -132942,6 +133324,7 @@ plašas.
 plašā.
 plašāka.
 plašāki.
+plaši.
 plašināt.
 plašķi.
 plašlietojuma.
@@ -133907,6 +134290,7 @@ politikā.
 politikānis.
 politikānisms.
 politiku.
+politiķi.
 politiķiem.
 politiķis.
 politiķu.
@@ -133915,10 +134299,15 @@ politioesteris.
 politioēteris.
 politionāts.
 politionskābe.
+politiskais.
 politiskajā.
+politiskā.
+politiskās.
 politiski.
 politiskie.
+politisko.
 politisks.
+politisku.
 politizācija.
 politizēt.
 politkorektums.
@@ -133968,6 +134357,7 @@ polsterus.
 poltergeists.
 polu.
 polu .
+poļu.
 pomāde.
 pomerance.
 pomerānija.
@@ -134041,6 +134431,7 @@ portālā.
 portālceltnis.
 portāliem.
 portāls.
+portālu.
 portera.
 porteris.
 portfelis.
@@ -134439,6 +134830,7 @@ prepozīcija.
 prerogatīva.
 prerogatīvs.
 prese.
+preses.
 presēt.
 presētava.
 presētājs.
@@ -134536,10 +134928,12 @@ pretinfiltrācijas.
 pretinflācijas.
 pretinformācija.
 pretinieks.
+pretinieku.
 pretišķība.
 pretizlūkošana.
 pretizpildījums.
 pretī.
+pretīgi.
 pretīgs.
 pretīgums.
 pretjautājums.
@@ -134683,6 +135077,7 @@ prezentējot.
 prezentēt.
 prezentētājs.
 prezervatīvs.
+prezidenta.
 prezidentāls.
 prezidenti.
 prezidentiem.
@@ -135369,6 +135764,7 @@ protežēt.
 protežētājs.
 protēze.
 protēzists.
+proti.
 proties.
 protieties.
 protijs.
@@ -135521,6 +135917,7 @@ psitakoze.
 psoriātisks.
 psoriāze.
 psr270.
+psrs.
 pteroilmonoglutamīnskābe.
 ptialīns.
 puansons.
@@ -135532,6 +135929,7 @@ publicējams.
 publicējot.
 publicēju.
 publicējums.
+publicēsim.
 publicēšanai.
 publicēšanas.
 publicēt.
@@ -135541,6 +135939,7 @@ publicistika.
 publicistisks.
 publicists.
 publicitāte.
+publicitātes.
 publika.
 publikas.
 publikā.
@@ -135798,6 +136197,7 @@ purniņiem.
 purniņš.
 purniņus.
 purns.
+purnu.
 purpināt.
 purpinātājs.
 purpurgliemezis.
@@ -135920,18 +136320,19 @@ pusducis.
 pusdulls.
 pusduplekss.
 pusdzerts.
+pusdzīvnieki.
 pusdzīvs.
 puse
 puse.
 pusei.
 puses.
 pusē.
-pusēkur.
 pusēm.
 pusēna.
 pusēs.
 pusfabrikāts.
 pusfanātisks.
+pusfinālā.
 pusfinālists.
 pusfināls.
 pusfinālspēle.
@@ -136007,6 +136408,7 @@ puslode.
 puslodesveidīgs.
 pusloks.
 puslokveida.
+puslopi.
 pusmaltīte.
 pusmaratons.
 pusmaršrutētājs.
@@ -136245,10 +136647,13 @@ puteņoja.
 puteņot.
 putēja.
 putēt.
+putina.
 putinājās.
 putināt.
 putinātājs.
+putins.
 putnēns.
+putni.
 putniem.
 putniņš.
 putnkopēja.
@@ -136659,6 +137064,7 @@ radošāks.
 radošāku.
 radošās.
 radošies.
+radot.
 rads.
 radu.
 radums.
@@ -136730,6 +137136,7 @@ raibsvārcis.
 raibums.
 raidaparatūra.
 raidījuma.
+raidījumā.
 raidījums.
 raidījumu.
 raidīt.
@@ -136771,6 +137178,7 @@ raižpilns.
 ray.
 raja.
 rajona.
+rajonā.
 rajonējums.
 rajonēt.
 rajoni.
@@ -136788,7 +137196,9 @@ rakņāt.
 rakņātājs.
 raksta.
 rakstains.
+rakstam.
 rakstatgrieze.
+rakstā.
 rakstām.
 rakstāmaparāts.
 rakstāmgalds.
@@ -136859,6 +137269,7 @@ raksturīpašība.
 raksturlielums.
 raksturlīkne.
 raksturloma.
+raksturo.
 raksturoja.
 raksturojums.
 raksturojumu.
@@ -137130,14 +137541,17 @@ ražens.
 ražība.
 ražīgs.
 ražīgums.
+ražo.
 ražoja.
 ražojumi.
 ražojums.
+ražošanas.
 ražošanā.
 ražošanu.
 ražot.
 ražotājdarbība.
 ražotājfirma.
+ražotāji.
 ražotājs.
 ražotājsabiedrība.
 ražotājsaimniecība.
@@ -137350,9 +137764,11 @@ recenzēt.
 recenzētājs.
 recenzēti.
 recenzija.
+recepšu.
 receptārs.
 recepte.
 receptē.
+recepti.
 receptīvs.
 receptors.
 receptūra.
@@ -137405,6 +137821,7 @@ reduplikācija.
 redute.
 redz.
 redzama.
+redzamas.
 redzamā.
 redzamāk.
 redzamāka.
@@ -137544,12 +137961,15 @@ reģenerāts.
 reģenerēt.
 reģenerētājs.
 reģents.
+reģiona.
 reģionalitāte.
 reģionalizācija.
+reģionā.
 reģionālisms.
 reģionālos.
 reģionālplānojums.
 reģionāls.
+reģionos.
 reģions.
 reģipsi.
 reģipsis.
@@ -137569,6 +137989,7 @@ reģistrētu.
 reģistrjutība.
 reģistrnejutība.
 reģistrs.
+reģistru.
 rehabilitācija.
 rehabilitācijas.
 rehabilitēt.
@@ -137954,6 +138375,7 @@ reps.
 repsis.
 reptilis.
 republika.
+republikas.
 republikānis.
 republikānisks.
 reputācija.
@@ -138123,7 +138545,6 @@ rezonanse.
 rezonators.
 rezonēt.
 rezultativitāte.
-rezultatīvs!!!!.
 rezultatīvs.
 rezultāta.
 rezultātam.
@@ -138170,6 +138591,7 @@ rēcošies.
 rēcoties.
 rēdereja.
 rēderis.
+rēdlihs.
 rēdze.
 rēgainība.
 rēgains.
@@ -138393,6 +138815,7 @@ rietumeiropa.
 rietumeiropeisks.
 rietumeiropietis.
 rietumi.
+rietumiem.
 rietumindietis.
 rietumindija.
 rietumkrasts.
@@ -138400,6 +138823,7 @@ rietumkrievija.
 rietumlatgale.
 rietumniecisks.
 rietumnieks.
+rietumos.
 rietumpuse.
 rietums.
 rietumsahāra.
@@ -138677,6 +139101,7 @@ rīboņa.
 rīcinaugs.
 rīcineļļa.
 rīcība.
+rīcības.
 rīcībnespēja.
 rīcībnespējīgs.
 rīcībspēja.
@@ -138697,6 +139122,7 @@ rīkiem.
 rīkjosla.
 rīkle.
 rīkļurāvējs.
+rīko.
 rīkoja.
 rīkojas.
 rīkojāmies.
@@ -138773,10 +139199,12 @@ robežapdrošināšana.
 robežapgabals.
 robežapsardze.
 robežapsardzība.
+robežas.
 robežasignējums.
 robežatsķaidījums.
 robežattiecība.
 robežatzīme.
+robežām.
 robežās.
 robežbūve.
 robeždobe.
@@ -138806,6 +139234,7 @@ robežnieki.
 robežnosacījums.
 robežnoteikums.
 robežnovirze.
+robežojas.
 robežot.
 robežpatruļa.
 robežpāreja.
@@ -139011,12 +139440,14 @@ romantika.
 romantikas.
 romantiķis.
 romantiska.
+romantiskas.
 romantiski.
 romantisko.
 romantisks.
 romantiskums.
 romantisms.
 romantizēt.
+romas.
 romāni.
 romāniem.
 romānika.
@@ -139273,6 +139704,7 @@ rupjgraudainība.
 rupjgraudains.
 rupjgraudu.
 rupjība.
+rupjībām.
 rupjmaize.
 rupjmaizes.
 rupjš.
@@ -139379,6 +139811,7 @@ rūpētos.
 rūpija.
 rūpība.
 rūpīgāk.
+rūpīgi.
 rūpīgs.
 rūpīgums.
 rūpju.
@@ -140070,6 +140503,8 @@ sacementēt.
 sacensība.
 sacensības.
 sacensībām.
+sacensībās.
+sacensību.
 sacensties.
 sacenstos.
 sacenšamies.
@@ -140205,6 +140640,7 @@ sacirtušu.
 sacirtušus.
 sacīja.
 sacīkste.
+sacīkstes.
 sacīkstēties.
 sacīt.
 sacītājs.
@@ -141480,12 +141916,15 @@ saistījās.
 saistījies.
 saistījums.
 saistīt.
+saistīta.
 saistītas.
 saistītā.
 saistītājorbitāle.
 saistītājs.
 saistītāk.
 saistītām.
+saistītās.
+saistīti.
 saistītie.
 saistītiem.
 saistīts.
@@ -141831,6 +142270,7 @@ sakampusies.
 sakampušies.
 sakapāt.
 sakapkakle.
+sakara.
 sakaramies.
 sakaras.
 sakaraties.
@@ -142866,6 +143306,7 @@ salamandra.
 salamāt.
 salami.
 salapot.
+salas.
 salasāmāk.
 salasāmāka.
 salasāmākais.
@@ -142916,9 +143357,11 @@ salādēt.
 salāgojamība.
 salāgojums.
 salāgot.
+salām.
 salāpīju.
 salāpīt.
 salāpošies.
+salās.
 salātene.
 salātiem.
 salāts.
@@ -144195,6 +144638,7 @@ saņemos.
 saņemošies.
 saņemot.
 saņemoties.
+saņems.
 saņemsim.
 saņemšana.
 saņemšanās.
@@ -144209,6 +144653,7 @@ saņemtie.
 saņemties.
 saņemtu.
 saņemu.
+saņēma.
 saņēmāmies.
 saņēmās.
 saņēmāties.
@@ -144695,6 +145140,7 @@ sapņainība.
 sapņains.
 sapņainums.
 sapņi.
+sapņiem.
 sapņo.
 sapņojam.
 sapņoju.
@@ -144991,6 +145437,7 @@ sarajeva.
 sarakāt.
 sarakņāt.
 saraksta.
+sarakstā.
 sarakstāmies.
 sarakste.
 sarakstēm.
@@ -146552,6 +146999,7 @@ sasniedzamāku.
 sasniedzamība.
 sasniedzējs.
 sasniedzis.
+sasniedzot.
 sasniedzu.
 sasniegama.
 sasniegamā.
@@ -146916,6 +147364,7 @@ sastādošies.
 sastāstīt.
 sastāt.
 sastāv.
+sastāvā.
 sastāvdaļa.
 sastāvēt.
 sastāvs.
@@ -147009,6 +147458,7 @@ sastīpot.
 sastīvēt.
 sastīvināt.
 sastopama.
+sastopamas.
 sastopamā.
 sastopamāka.
 sastopamākā.
@@ -147899,6 +148349,7 @@ satiksiet.
 satiksim.
 satiksit.
 satiksme.
+satiksmes.
 satiksmi.
 satikšos.
 satikšot.
@@ -148149,6 +148600,7 @@ satupstošies.
 satupt.
 satupusies.
 satupušies.
+satur.
 satura.
 saturam.
 saturanalīze.
@@ -148374,6 +148826,7 @@ sausummīlis.
 sausums.
 sausviedis.
 sauszeme.
+sauszemes.
 sausziedis.
 sautējums.
 sautēt.
@@ -148794,7 +149247,9 @@ saviebusies.
 saviebušies.
 saviem.
 savienība.
+savienības.
 savienībā.
+savieno.
 savienojamība.
 savienoju.
 savienojuma.
@@ -148999,6 +149454,7 @@ savulkanizēt.
 savureiz.
 savus.
 savvaļa.
+savvaļas.
 savvaļnieks.
 savveidīgs.
 sazadzies.
@@ -149318,6 +149774,7 @@ sākotnējos.
 sākotnējs.
 sāks.
 sāksies.
+sāksim.
 sākšanas.
 sākšot.
 sākšoties.
@@ -149377,6 +149834,7 @@ sālāmāki.
 sālāmāko.
 sālāmāks.
 sālāmāku.
+sāli.
 sālījums.
 sālīt.
 sālītājs.
@@ -149662,6 +150120,7 @@ sekmētājs.
 sekmība.
 sekmīgi.
 sekmīgs.
+seko.
 sekojums.
 sekojusi.
 sekos.
@@ -149775,6 +150234,7 @@ semīts.
 sen.
 sena.
 senaizmirsts.
+senajā.
 senangļu.
 senapdzīvots.
 senatne.
@@ -149782,6 +150242,7 @@ senatnīgs.
 senatnīgums.
 senators.
 senāk.
+senāki.
 senākie.
 senās.
 senāts.
@@ -150263,6 +150724,7 @@ sērgveidīgs.
 sērija.
 sērijapraksts.
 sērijas.
+sērijā.
 sērijlīnija.
 sērijplūsma.
 sērijveida.
@@ -150382,6 +150844,7 @@ sholastika.
 sholastiķis.
 sholastisks.
 sholasts.
+si.
 sia.
 sialoscintigrāfija.
 siāma.
@@ -150766,6 +151229,7 @@ simtgadīgs.
 simtgadnieks.
 simtgadu.
 simti.
+simtiem.
 simtkājis.
 simtkārt.
 simtkārtējs.
@@ -151005,6 +151469,7 @@ sitējs.
 siti.
 sitienprinteris.
 sitiens.
+sitienu.
 sities.
 sitieties.
 sitija.
@@ -151165,6 +151630,8 @@ sīpolu.
 sīpolveidīgs.
 sīrietis.
 sīrija.
+sīrijas.
+sīrijā.
 sīriuss.
 sīrups.
 sīrupstā.
@@ -151459,6 +151926,7 @@ skatīšānās.
 skatīt.
 skatīta.
 skatītajām.
+skatītāji.
 skatītājiem.
 skatītājs.
 skatītāju.
@@ -151594,6 +152062,7 @@ skāvušus.
 skečs.
 skeitbordists.
 skeitbords.
+skeitparkā.
 skeitparks.
 skeletapbedījums.
 skeletkatalizators.
@@ -152388,6 +152857,7 @@ slimnieks.
 slimnīca.
 slimnīcas.
 slimnīcā.
+slimnīcām.
 slimnīcu.
 slimo.
 slimoja.
@@ -152907,6 +153377,7 @@ snaužoties.
 snaužu.
 snēpele.
 snidzis.
+sniedz.
 sniedzamāka.
 sniedzamākā.
 sniedzamāki.
@@ -152987,6 +153458,7 @@ socializācija.
 socializēt.
 sociālais.
 sociālā.
+sociālās.
 sociāldarvinisms.
 sociāldemogrāfisks.
 sociāldemokrāte.
@@ -152999,6 +153471,7 @@ sociālisms.
 sociālistisks.
 sociālists.
 sociālkritisks.
+sociālo.
 sociālpolitika.
 sociālpolitisks.
 sociālpsiholoģija.
@@ -153014,6 +153487,7 @@ socioloģisks.
 socioloģisms.
 sociometrisks.
 socreālisms.
+sočos.
 soda.
 sodanauda.
 sodas.
@@ -153138,8 +153612,10 @@ sombrēro.
 somdarī.
 somiete.
 somija.
+somijas.
 somijā.
 somiju.
+somiņas.
 somiņveidīgs.
 somisks.
 soms.
@@ -153241,8 +153717,10 @@ spazmās.
 spazmolītisks.
 spānietis.
 spānija.
+spānijas.
 spānis.
 spānisks.
+spāņu.
 spārda.
 spārdās.
 spārdīja.
@@ -153255,6 +153733,7 @@ spāri.
 spārnainis.
 spārnains.
 spārngals.
+spārni.
 spārnot.
 spārnots.
 spārns.
@@ -153421,7 +153900,11 @@ spēlēšana.
 spēlēšanās.
 spēlēšanu.
 spēlēt.
+spēlētāji.
+spēlētājiem.
 spēlētājs.
+spēlētāju.
+spēlētājus.
 spēlēties.
 spēlētos.
 spēlētprasme.
@@ -153784,6 +154267,7 @@ spodrums.
 spoguli.
 spogulim.
 spogulis.
+spogulīšus.
 spoguļa.
 spoguļattēls.
 spoguļgluds.
@@ -153832,17 +154316,21 @@ sporāne.
 sporānskābe.
 sporidioze.
 sporofils.
+sport.
 sporta.
+sportā.
 sportiskais.
 sportiskā.
 sportisks.
 sportisku.
+sportisti.
 sportists.
 sportloto.
 sportojām.
 sportot.
 sportotājs.
 sports.
+sportu.
 spozme.
 spoža.
 spožā.
@@ -154638,6 +155126,7 @@ stāvums.
 stāvus.
 stāvvads.
 stāvvieta.
+stāvvietas.
 stāvvietā.
 stāvvilnis.
 stāvvitrīna.
@@ -154725,6 +155214,7 @@ stenogrāfs.
 stenokardija.
 stenoze.
 stepa.
+stepanu.
 stepe.
 stepeļi.
 stepēt.
@@ -155451,6 +155941,7 @@ sudetija.
 sudmalas.
 sudmaliņas.
 sudmalnieks.
+sudraba.
 sudrabains.
 sudrabegle.
 sudrabkalis.
@@ -155472,6 +155963,8 @@ sufražiste.
 suga.
 sugas.
 sugasvārds.
+sugām.
+sugu.
 suģestējamība.
 suģestējošāk.
 suģestēt.
@@ -155581,6 +156074,7 @@ suņubūda.
 suņuks.
 suņusēne.
 suņveidīgs.
+super.
 superaugsts.
 superātrs.
 superdators.
@@ -155734,6 +156228,7 @@ sūdu.
 sūdus.
 sūdvabole.
 sūdzambībele.
+sūdzas.
 sūdzējās.
 sūdzējos.
 sūdzēt.
@@ -155800,6 +156295,7 @@ sūtība.
 sūtīju.
 sūtījums.
 sūtījumtirdzniecība.
+sūtīs.
 sūtīt.
 sūtītajām.
 sūtītas.
@@ -155812,6 +156308,7 @@ sūtnis.
 sūtos.
 sūtot.
 sūtoties.
+sv.
 svabads.
 svaidīgs.
 svaidījums.
@@ -155890,7 +156387,7 @@ sveicienus.
 sveicinājums.
 sveicināt.
 sveicinātājs.
-sveiks!.
+sveicināts.
 sveiks.
 sveikt.
 sveķains.
@@ -155940,6 +156437,7 @@ sveroties.
 sveša.
 svešam.
 svešappute.
+svešas.
 svešatne.
 svešā.
 svešāds.
@@ -155982,6 +156480,7 @@ svērums.
 svērusies.
 svērušies.
 svētavots.
+svētā.
 svētbijīgs.
 svētbilde.
 svētbirzs.
@@ -156074,6 +156573,7 @@ sviestmaižu.
 sviestpapīrs.
 sviests.
 sviestskābe.
+sviestu.
 sviešanās.
 sviež.
 sviežamies.
@@ -156130,6 +156630,7 @@ svinēšanām.
 svinēšanu.
 svinēt.
 svinētājs.
+svinēti.
 svings.
 svinības.
 svinībām.
@@ -156343,6 +156844,7 @@ switchboard.
 šādējāds.
 šādi.
 šādiem.
+šādos.
 šāds.
 šādu.
 šādus.
@@ -156677,6 +157179,7 @@ switchboard.
 šķērslīnija.
 šķērslocījums.
 šķērsnorobežojums.
+šķērso.
 šķērsojums.
 šķērsot.
 šķērsotājs.
@@ -156886,6 +157389,7 @@ switchboard.
 šķirklis.
 šķirlente.
 šķirne.
+šķirnes.
 šķirnība.
 šķiros.
 šķirošanu.
@@ -157274,14 +157778,17 @@ switchboard.
 šosestdien.
 šosezon.
 šote.
+šova.
 šovakar.
 šovaklar.
 šovasar.
+šovā.
 šovbizness.
 šovinisms.
 šovinistisks.
 šovinists.
 šovs.
+šovu.
 šoziem.
 špaga.
 špagats.
@@ -157396,6 +157903,7 @@ switchboard.
 šūnās.
 šūnbetons.
 šūnsula.
+šūnu.
 šūnveida.
 šūnveidīgs.
 šūpināja.
@@ -157441,6 +157949,8 @@ switchboard.
 švauksts.
 šveicars.
 šveice.
+šveices.
+šveici.
 šveicietis.
 šveiks.
 šveiku.
@@ -157658,6 +158168,7 @@ talmuds.
 talons.
 talsenieks.
 talsi.
+talsu.
 taļļa.
 tam.
 tamāra.
@@ -157859,6 +158370,7 @@ tautai.
 tautas.
 tautasdziesma.
 tautastērps.
+tautām.
 tautfrontietis.
 tautgodis.
 tautietis.
@@ -157876,6 +158388,7 @@ tautsaimnieks.
 tautskaite.
 tautskola.
 tautskolotājs.
+tautu.
 tautvaldis.
 tautvaldība.
 tauva.
@@ -157889,6 +158402,8 @@ tavā.
 tavām.
 tavās.
 taverna.
+tavējie.
+tavējiem.
 tavējs.
 taviem.
 tavs.
@@ -158088,6 +158603,7 @@ tehnokrātisks.
 tehnokrāts.
 tehnologs.
 tehnoloģija.
+tehnoloģijas.
 tehnoloģiju.
 tehnoloģisks.
 tehnoloģiskums.
@@ -158484,7 +159000,9 @@ teritoriāls.
 teritorija.
 teritorijas.
 teritorijā.
+teritorijām.
 teritorijplānojums.
+teritoriju.
 terīne.
 terjers.
 termāls.
@@ -158499,6 +159017,7 @@ terminētāk.
 terminoloģija.
 terminoloģisks.
 termins.
+terminu.
 terminzinātne.
 termiņa.
 termiņaizdevums.
@@ -158875,6 +159394,8 @@ tēvatēvs.
 tēvaugs.
 tēvavārds.
 tēvija.
+tēviņi.
+tēviņš.
 tēvišķība.
 tēvišķīgs.
 tēvišķs.
@@ -158901,6 +159422,7 @@ tiamīns.
 tibeta.
 tibeteika.
 tibetietis.
+tic.
 ticamāk.
 ticamāka.
 ticamākais.
@@ -158986,7 +159508,9 @@ tiepoņa.
 tiepša.
 tiepums.
 tiesa.
+tiesas.
 tiesasvīrs.
+tiesā.
 tiesājamība.
 tiesāt.
 tiesātājs.
@@ -159003,6 +159527,7 @@ tiesībnespējīgs.
 tiesībpārkāpums.
 tiesībsardze.
 tiesībsargājoša.
+tiesībsargājošām.
 tiesībsargājošs.
 tiesībsargāšana.
 tiesībsargs.
@@ -159093,6 +159618,7 @@ tilaudas.
 tilbīte.
 tilde.
 tildes.
+tildēm.
 tilināt.
 tills.
 tilpināt.
@@ -159494,6 +160020,7 @@ toksokaroze.
 toksoplazmoze.
 tolaik.
 tolerance.
+tolerantiem.
 tolerants.
 tolfenamskābe.
 tolilacetāts.
@@ -159663,6 +160190,7 @@ tracis.
 tradicionalitāte.
 tradicionālais.
 tradicionālām.
+tradicionāli.
 tradicionālisms.
 tradicionālists.
 tradicionāls.
@@ -159795,6 +160323,7 @@ transplantēt.
 transplantologs.
 transponējums.
 transponēt.
+transporta.
 transportējamība.
 transportējums.
 transportēt.
@@ -159987,6 +160516,7 @@ trejžuburu.
 trek.
 trekā.
 treknajos.
+treknas.
 treknbits.
 treknraksts.
 trekns.
@@ -160009,6 +160539,7 @@ trencieties.
 trencos.
 trencošies.
 trencoties.
+treneri.
 treneris.
 trenējas.
 trenējos.
@@ -160803,6 +161334,7 @@ turbulence.
 turbulents.
 turciete.
 turcija.
+turcijas.
 tureklis.
 turēja.
 turējas.
@@ -160842,11 +161374,14 @@ turkmēniete.
 turkmēnija.
 turkmēnis.
 turks.
+turku.
 turlava.
 turna.
 turneja.
 turnepsis.
 turnikets.
+turnīra.
+turnīrā.
 turnīrs.
 turos.
 turp.
@@ -160961,6 +161496,7 @@ tūkstošdaļa.
 tūkstošgade.
 tūkstošgadīgs.
 tūkstošgadu.
+tūkstoši.
 tūkstošiem.
 tūkstoškājis.
 tūkstoškāršot.
@@ -160969,6 +161505,7 @@ tūkstoškārtīgs.
 tūkstošnieks.
 tūkstošos.
 tūkstošreiz.
+tūkstošus.
 tūkstotis.
 tūkt.
 tūkums.
@@ -161076,6 +161613,7 @@ tvīkstamāks.
 tvīkstamāku.
 tvīkt.
 twh.
+twitter.
 u.
 ubadze.
 ubagot.
@@ -161161,14 +161699,17 @@ uguņot.
 uguņotājs.
 uģi.
 uģis.
-uh!!!.
 uh.
 uka.
 ukas.
 ukmerģe.
 ukraina.
+ukrainai.
+ukrainas.
+ukrainā.
 ukrainietis.
 ukrainis.
+ukrainu.
 ukri.
 ukris.
 uku.
@@ -161308,6 +161849,7 @@ upesleja.
 upēm.
 upgrade.
 upi.
+upju.
 upjveidīgs.
 upleja.
 upmala.
@@ -161408,13 +161950,13 @@ urtānam.
 urtāns.
 urugvaja.
 urzula.
-userus.
-usg.
 usma.
-usmarc.
 usne.
 ušņains.
+utainais.
+utainie.
 utains.
+utc.
 utenā.
 utenis.
 utilitārisms.
@@ -164183,6 +164725,7 @@ uzņēmīgums.
 uzņēmos.
 uzņēmuma.
 uzņēmumam.
+uzņēmumi.
 uzņēmumos.
 uzņēmums.
 uzņēmumu.
@@ -165052,6 +165595,7 @@ uzsākas.
 uzsākaties.
 uzsākām.
 uzsākās.
+uzsākot.
 uzsākoties.
 uzsāks.
 uzsāksies.
@@ -165333,6 +165877,7 @@ uzskatījums.
 uzskatījusi.
 uzskatīšana.
 uzskatīt.
+uzskatīta.
 uzskatītājs.
 uzskatīts.
 uzskatošies.
@@ -166128,12 +166673,14 @@ uzsvelpdams.
 uzsvelpšana.
 uzsvelpt.
 uzsvepstēt.
+uzsver.
 uzsveramāka.
 uzsveramākā.
 uzsveramāki.
 uzsveramāko.
 uzsveramāks.
 uzsveramāku.
+uzsvēra.
 uzsvērdama.
 uzsvērdamas.
 uzsvērdami.
@@ -166923,18 +167470,24 @@ uzvalstīt.
 uzvalstošies.
 uzvandīt.
 uzvandošies.
+uzvar.
 uzvara.
 uzvaramība.
+uzvaras.
+uzvarēja.
 uzvarējusi.
+uzvarēs.
 uzvarēt.
 uzvarētājiem.
 uzvarētājs.
+uzvarētāju.
 uzvarošāka.
 uzvarošākā.
 uzvarošāki.
 uzvarošāko.
 uzvarošāks.
 uzvarošāku.
+uzvaru.
 uzvaskot.
 uzvaukšķēt.
 uzvazāt.
@@ -167625,6 +168178,7 @@ užava.
 v.
 va.
 vabole.
+vada.
 vadakmens.
 vadakste.
 vadam.
@@ -167827,6 +168381,7 @@ vairāksolītājs.
 vairākstaciju.
 vairākstāvu.
 vairāku.
+vairākumā.
 vairākumfrakcija.
 vairākums.
 vairākumu.
@@ -168006,6 +168561,7 @@ valdis.
 valdība.
 valdībai.
 valdības.
+valdību.
 valdīja.
 valdījums.
 valdīt.
@@ -168069,6 +168625,7 @@ valkīra.
 valks.
 valle.
 valmiera.
+valmieras.
 valmierā.
 valmierietis.
 valmieru.
@@ -168080,6 +168637,7 @@ valodai.
 valodas.
 valodā.
 valodām.
+valodās.
 valodiņas.
 valodisks.
 valodīgs.
@@ -168096,11 +168654,15 @@ valsēt.
 valsētājs.
 valsis.
 valsti.
+valstij.
 valstiņa.
+valstis.
 valstisks.
 valstiskums.
 valstī.
 valstība.
+valstīm.
+valstīs.
 valstīt.
 valstīties.
 valstošies.
@@ -168109,6 +168671,7 @@ valstsīpašums.
 valststiesības.
 valstsvienība.
 valstsvīrs.
+valstu.
 valša.
 valšķis.
 valšķība.
@@ -168244,6 +168807,7 @@ variators.
 variācija.
 varieba.
 varieši.
+variet.
 varietāte.
 varietē.
 variējums.
@@ -168263,6 +168827,7 @@ varmācīgs.
 varmāka.
 varmākam.
 varnesis.
+varone.
 varonis.
 varonība.
 varonīga.
@@ -168299,7 +168864,6 @@ vasa.
 vasalis.
 vasaļvalsts.
 vasara.
-vasarai!.
 vasarai.
 vasaras.
 vasaraudzis.
@@ -168338,6 +168902,7 @@ vatikāns.
 vatmaņpapīrs.
 vatmetrs.
 vatnieks.
+vatņiki.
 vats.
 vau.
 vaukšķēt.
@@ -168383,6 +168948,8 @@ vāciešus.
 vācieties.
 vācietis.
 vācija.
+vācijas.
+vācijā.
 vāciņa.
 vāciņu.
 vācisks.
@@ -168534,6 +169101,7 @@ vārtiņi.
 vārtiņu.
 vārtīt.
 vārtnieks.
+vārtos.
 vārtošies.
 vārtrūme.
 vārtsardze.
@@ -168598,6 +169166,7 @@ vecā.
 vecāka.
 vecākais.
 vecākajam.
+vecākas.
 vecāki.
 vecākie.
 vecākiem.
@@ -168816,6 +169385,7 @@ veicējiem.
 veicējs.
 veicies.
 veicieties.
+veicina.
 veicinājums.
 veicināmāka.
 veicināmākā.
@@ -168846,6 +169416,8 @@ veidlapa.
 veidlapām.
 veidlējums.
 veidne.
+veidnes.
+veidni.
 veidnis.
 veidņus.
 veidņuzgalis.
@@ -169023,6 +169595,7 @@ velnišķīgs.
 velnišķīgums.
 velnišķs.
 velns.
+velo.
 veloapģērbu.
 velobraucējs.
 velobrauciens.
@@ -169660,6 +170233,7 @@ vērtāku.
 vērtāmies.
 vērtās.
 vērtāties.
+vērtēju.
 vērtējumkarte.
 vērtējums.
 vērtējumu.
@@ -169765,8 +170339,10 @@ vēstuļu.
 vēsture.
 vēsturei.
 vēstures.
+vēsturē.
 vēsturi.
 vēsturiskas.
+vēsturiski.
 vēsturisks.
 vēsturiskums.
 vēsturnieks.
@@ -169981,6 +170557,7 @@ viduskembrijs.
 viduskrievija.
 viduskurzeme.
 viduslaiki.
+viduslaiku.
 viduslatgale.
 viduslīnija.
 vidusmēra.
@@ -170063,6 +170640,7 @@ vielas.
 vielisks.
 vieliskums.
 vielmaiņa.
+vielu.
 vien.
 viena.
 vienacains.
@@ -170166,6 +170744,7 @@ vienkāršāku.
 vienkārši.
 vienkāršiem.
 vienkāršība.
+vienkāršo.
 vienkāršojums.
 vienkāršot.
 vienkāršoti.
@@ -170559,6 +171138,8 @@ vikentijs.
 vikija.
 vikings.
 vikipēdija.
+vikipēdijas.
+vikipēdijā.
 vikontese.
 vikonts.
 viksnam.
@@ -173557,6 +174138,7 @@ viznis.
 vizors.
 vizualizācija.
 vizualizēt.
+vizuālā.
 vizuālbeisiku.
 vizuāli.
 vizuāls.
@@ -173765,6 +174347,7 @@ voluntārisks.
 voluntārisms.
 voluntārs.
 vortāls.
+vot.
 votums.
 vraks.
 vraku.
@@ -173981,6 +174564,7 @@ zaudēju.
 zaudējumi.
 zaudējums.
 zaudējumsaimniecība.
+zaudējumu.
 zaudējumus.
 zaudēt.
 zaudētājs.
@@ -174166,6 +174750,7 @@ zemētājspaile.
 zemētājtīkls.
 zemfrekvence.
 zemgale.
+zemgales.
 zemgalietis.
 zemgalis.
 zemgals.
@@ -174182,6 +174767,7 @@ zemledus.
 zemniecisks.
 zemniecība.
 zemnieks.
+zemnieku.
 zemnīca.
 zemoties.
 zems.
@@ -174343,6 +174929,7 @@ ziemeļeiropa.
 ziemeļeiropietis.
 ziemeļfrancija.
 ziemeļgals.
+ziemeļiem.
 ziemeļitālija.
 ziemeļīrija.
 ziemeļjūra.
@@ -174354,12 +174941,14 @@ ziemeļlatgale.
 ziemeļlatvija.
 ziemeļniecisks.
 ziemeļnieks.
+ziemeļos.
 ziemeļpols.
 ziemeļpuse.
 ziemeļreina.
 ziemeļrietenis.
 ziemeļrietumeiropa.
 ziemeļrietumi.
+ziemeļrietumos.
 ziemeļrietums.
 ziemeļrīga.
 ziemeļrītenis.
@@ -174421,6 +175010,7 @@ zigzagveida.
 zigzagveidīgs.
 zikurāts.
 ziķeris.
+zila.
 zilacains.
 zilace.
 zilais.
@@ -174515,6 +175105,7 @@ zinātkārs.
 zinātne.
 zinātnes.
 zinātnesietilpība.
+zinātnieki.
 zinātnieks.
 zinātnieku.
 zinātniskajai.
@@ -174558,6 +175149,7 @@ ziņkārība.
 ziņkārīgs.
 ziņkārs.
 ziņnesis.
+ziņo.
 ziņoja.
 ziņojumapmaiņa.
 ziņojumdēlis.
@@ -174567,6 +175159,7 @@ ziņojums.
 ziņojumu.
 ziņot.
 ziņotājs.
+ziņots.
 ziņotu.
 ziņu.
 ziras.
@@ -174664,6 +175257,7 @@ zīlētājs.
 zīlnieks.
 zīmaļa.
 zīme.
+zīmes.
 zīmējām.
 zīmēju.
 zīmējums.
@@ -174799,6 +175393,8 @@ zolmanis.
 zoļāda.
 zombijs.
 zona.
+zonas.
+zonā.
 zonāls.
 zondāža.
 zonde.
@@ -174898,6 +175494,7 @@ zvagulis.
 zvaigznājs.
 zvaigzne.
 zvaigznem.
+zvaigznes.
 zvaigznessakta.
 zvaigzni.
 zvaigzņu.
@@ -174908,6 +175505,7 @@ zvaigžņoto.
 zvaigžņots.
 zvaigžņtīkls.
 zvaigžņtopoloģija.
+zvaigžņu.
 zvaigžņveidīgs.
 zvalstīt.
 zvalstošies.
@@ -175015,6 +175613,7 @@ zviedrija.
 zviedrijas.
 zviedrisks.
 zviedrs.
+zviedru.
 zviedzamies.
 zviedzas.
 zviedzaties.
@@ -175048,6 +175647,7 @@ zvīņnesis.
 zvīņspārnis.
 zvīņveidīgs.
 zzk.
+zzs.
 ž.
 žabo.
 žadzināt.
@@ -175308,6 +175908,7 @@ zzk.
 žūpība.
 žūpot.
 žūrija.
+žūrijas.
 žūst.
 žūt.
 žūžas.

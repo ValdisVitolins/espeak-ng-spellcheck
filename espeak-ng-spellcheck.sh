@@ -13,18 +13,25 @@ function s {
   echo "--------------"
 }
 
+# Handle previous spelling file
+if [ -f spelling.tmp ]; then
+  read -r -p "Move spelling.tmp to prev [y/N]? " response
+  response=${response,,} # tolower
+  if [[ $response =~ ^(y|yes) ]]; then
+  echo "y"
+    mv spelling.tmp spelling.prev.tmp
+  fi
+fi
+
 echo "compiling espeak-ng..."
 s;
-
-if [ ! -f spelling.prev.tmp ]; then
-  mv spelling.tmp spelling.prev.tmp
-fi
 
 echo "runnning espeak-ng spelling..."
 ~/code/espeak-ng/src/espeak-ng -vlv -x -q -f lv-words.txt > spelling.tmp
 
 echo "making spelling diff file..."
 diff -y --suppress-common-lines spelling.prev.tmp spelling.tmp > spelling-diff.tmp
+meld spelling.prev.tmp spelling.tmp 2>/dev/null &
 
 echo "running espeak-ng... rules"
 ~/code/espeak-ng/src/espeak-ng -vlv -X -q -f lv-words.txt > rule-results.tmp
