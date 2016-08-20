@@ -10,20 +10,15 @@ Then run `espeak-ng-spellcheck.sh` and check output files:
 
 ## Spelling
 
-* `spelling.tmp` shows how words are spelled
-* `spelling-diff.tmp` shows differences from previous `espeak-ng` run
+* `spelling_YYYY-MM-DD_HH-mm.txt` shows how words are spelled
+* `spelling-diff.txt` shows differences from previous `espeak-ng` run
 
 ## Rule decisions
 
-* `rule-results.tmp` trace of rule decisions for all words
-* `winning-rule-lines.tmp` only winning lines filtered out from  `rule-results.tmp`
+* `rule-results.txt` trace of rule decisions for all words
+* `winning-rule-lines.txt` only winning lines filtered out from  `rule-results.txt`
  
-* `winning-lines.tmp` full unsorted list of line numbers of winning rules
-* `winning-lines-count.tmp` count how many times each rule line has win for all words
-* `unused-lines.tmp` list of lines, which have never used for spelling decisisons
-
-
-
-
-
+* `winning-lines.txt` full unsorted list of line numbers of winning rules
+* `winning-lines-count.txt` count how many times each rule line has win for all words
+* `unused-lines.txt` list of lines, which have never used (won) for spelling decisions
 

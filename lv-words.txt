@@ -415,7 +415,6 @@ afrikāta.
 afroamerikānis.
 afrocentrisms.
 afrodīte.
-after.
 afvilīts.
 agamemnons.
 agape.
@@ -92523,8 +92522,7 @@ mīzene.
 mj.
 mjanma.
 ml.
-mldonkey.
-mlrd..
+mlrd.
 mm.
 mnemonisks.
 mobilais.
@@ -174379,7 +174377,6 @@ w2k.
 warningiem.
 wd.
 web.
-weindows.
 weka.
 western.
 wget.
