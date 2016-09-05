@@ -1,3 +1,4 @@
+
 _- .
 : .
 ! .
@@ -23846,6 +23847,8 @@ blāzma.
 blāzmains.
 blāzmojums.
 blāzmot.
+blefo.
+blefot.
 blefs.
 bleķi.
 bleķis.
@@ -24114,6 +24117,9 @@ bonitāte.
 bonitējums.
 bonitēšana.
 bonna.
+bonusi.
+bonuss.
+bonusu.
 boot.
 boputatstvana.
 boraks.
@@ -34141,6 +34147,7 @@ fondēt.
 fondietilpība.
 fondietilpīgs.
 fondietilpīgums.
+fondos.
 fonds.
 fondturis.
 fondus.
@@ -83100,6 +83107,7 @@ konformistisks.
 konformists.
 konformitāte.
 konfrontācija.
+konfrontējoši.
 konfrontēt.
 konfuciānisms.
 konfuksis.
@@ -88964,6 +88972,7 @@ madrasa.
 madride.
 madrigāls.
 madžuro.
+maestoso.
 maestro.
 mafija.
 mafiozs.
@@ -97880,6 +97889,7 @@ netīru.
 netīrumi.
 netīrums.
 netīrumus.
+netop.
 netpkg.
 netradicionālu.
 netransponējums.
@@ -108612,6 +108622,7 @@ otrtik.
 otru.
 otrus.
 otrziemnieks.
+otto.
 outlook.
 ovācijas.
 ovāls.
@@ -134465,6 +134476,7 @@ poseidons.
 posi.
 posies.
 posieties.
+positivus.
 posīsies.
 posīsieties.
 posīsimies.
@@ -134581,6 +134593,7 @@ potenciometrisks.
 potenciometrs.
 potenciometru.
 potents.
+poters.
 potes.
 potējums.
 potējusies.
@@ -136838,6 +136851,7 @@ pvis.
 qbasicā.
 qif.
 quandt.
+qvartz.
 qwerty.
 r.
 r9550.
@@ -149962,6 +149976,8 @@ sātīgums.
 sāts.
 sātstrāva.
 sāviena.
+scania.
+scanpix.
 scenārijs.
 scenārists.
 scenogrāfe.
@@ -150415,6 +150431,8 @@ serpentīns.
 sers.
 sertificēt.
 sertificētājinstitūcija.
+sertificēto.
+sertificētos.
 sertifikācija.
 sertifikāti.
 sertifikātiem.
@@ -153533,7 +153551,6 @@ sola.
 solaris.
 solā.
 solārijs.
-soldo.
 solenoidāls.
 solfedžo.
 solidaritāte.
@@ -160127,6 +160144,7 @@ toraskopija.
 tordējums.
 toreadors.
 toreiz.
+toreizējais.
 toreizējs.
 torijs.
 torisks.
@@ -174344,6 +174362,7 @@ volumetrisks.
 voluntārisks.
 voluntārisms.
 voluntārs.
+volvo.
 vortāls.
 vot.
 votums.
@@ -174996,6 +175015,7 @@ zigita.
 zigmārs.
 zigmunds.
 zigota.
+zigotas.
 zigrīda.
 zigrīds.
 zigurds.

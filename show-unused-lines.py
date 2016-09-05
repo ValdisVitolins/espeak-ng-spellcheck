@@ -2,22 +2,25 @@
 # encoding: utf-8
 import sys
 
+rulefile = sys.argv[1] 
+ulinfile = sys.argv[2] 
+
+rulefile = open (rulefile)
+ulinfile = open (ulinfile)
+
 rlineno=0    # rule line number
 ulineno=0    # unused line number
 
-rfile = open ('lv_rules_2016-08-15_21-19')
-ufile = open ('unused-lines.txt')
-
-uline = ufile.readline()
+uline = ulinfile.readline()
 while uline:
-  uline = ufile.readline()
+  uline = ulinfile.readline()
   try:
     unused = uline.split()[1]
   except IndexError:
     unused = ""
   if unused == "<":
     ulineno = int((uline.split()[0]).replace("<","0"))
-    rline = rfile.readline()
+    rline = rulefile.readline()
     while rline:
       rlineno += 1
       if not rline : break
@@ -25,6 +28,6 @@ while uline:
         sys.stdout.write (str(ulineno) + ": " + rline )
         break
       else:
-        rline = rfile.readline()
-rfile.close()
-ufile.close()
+        rline = rulefile.readline()
+rulefile.close()
+ulinfile.close()
