@@ -12252,7 +12252,6 @@ apstāklis.
 apstākļi.
 apstākļiem.
 apstākļos.
-apstāķļi.
 apstāstīt.
 apstāstītājs.
 apstāšana.
@@ -21472,7 +21471,6 @@ aviotransports.
 aviovēstule.
 avitaminoze.
 avizēt.
-avizo.
 avīze.
 avīzes.
 avīzē.
@@ -22287,6 +22285,8 @@ barojusi.
 barokamera.
 barokāls.
 baroklis.
+baroklis.
+barokļu.
 baroks.
 barometrisks.
 barometrs.
@@ -24128,7 +24128,9 @@ bordelis.
 bordo.
 bordosarkans.
 borglikonāts.
+borisam.
 boriss.
+borisu.
 borīds.
 borland.
 bormaņi.
@@ -30220,7 +30222,6 @@ donors.
 donorvalsts.
 dons.
 donžuāns.
-doomāju.
 doomveidīgās.
 dopamīns.
 dopings.
@@ -31720,7 +31721,6 @@ dzīvžogu.
 dzīvžogus.
 dzn.
 dzots.
-dzret.
 džaivot.
 džaivs.
 džakarta.
@@ -46796,6 +46796,7 @@ interpretācija.
 interpretējums.
 interpretēt.
 interpretētājs.
+interpretēts.
 interpunkcija.
 interpunkciju.
 intertīkls.
@@ -80167,6 +80168,8 @@ kannabinolskābe.
 kanoe.
 kanonāde.
 kanoniķis.
+kanonisko.
+kanonisks.
 kanonisks.
 kanonizēt.
 kanons.
@@ -82078,7 +82081,6 @@ kļāvušies.
 kļāvušo.
 kļāvušu.
 kļāvušus.
-kļustu.
 kļuva.
 kļuvis.
 kļuvu.
@@ -85547,7 +85549,6 @@ kw.
 kwh.
 ķ.
 ķauķis.
-ķā.
 ķeblis.
 ķeburains.
 ķeburs.
@@ -86935,7 +86936,7 @@ lentveidīgs.
 lentveltnis.
 lentzāģis.
 leņinisms.
-leņķdzelis.
+leņķdzelzis.
 leņķdzelzs.
 leņķdzelžus.
 leņķis.
@@ -98198,7 +98199,6 @@ nevispārinājums.
 nevīža.
 nevīžība.
 nez.
-nez’.
 nezālājs.
 nezāle.
 nezel.
@@ -151816,6 +151816,7 @@ skan.
 skanda.
 skandalēt.
 skandalētājs.
+skandalozo.
 skandalozs.
 skandāla.
 skandālists.
@@ -159424,6 +159425,7 @@ tēvvārds.
 tēvzeme.
 tēvzemietis.
 tēze.
+tēžu.
 tēžveidīgs.
 tfu.
 tfu….
@@ -161110,7 +161112,7 @@ trompete.
 trompetists.
 trompetveidīgs.
 tronis.
-troņ.
+troņa.
 troņmantnieks.
 troņprincese.
 troņprincis.
