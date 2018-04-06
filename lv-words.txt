@@ -11670,7 +11670,6 @@ apskatē.
 apskati.
 apskatiti.
 apskatits.
-apskatīaj.
 apskatīja.
 apskatījām.
 apskatījāmies.
@@ -23918,8 +23917,10 @@ blīvēt.
 blīvētājs.
 blīvs.
 blīvslēgs.
-blīvums.
+,blīvums.
 blociņā.
+blogs.
+blogspot.
 bloka.
 blokators.
 blokāde.
@@ -26717,9 +26718,11 @@ cītīgi.
 cītīgs.
 cloudstore.
 cm.
+coca.
 code.
 cokols.
 coldrex.
+cola.
 colla.
 collīgs.
 collmērs.
@@ -33056,6 +33059,7 @@ esperantists.
 esperanto.
 esplanāde.
 espoo.
+est.
 estakāde.
 estamps.
 estere.
@@ -34718,7 +34722,6 @@ gaide.
 gaidi.
 gaidis.
 gaidības.
-gaidīija.
 gaidīja.
 gaidījām.
 gaidīji.
@@ -35520,6 +35523,7 @@ genofonds.
 genofondu.
 genomisks.
 genoms.
+genomu.
 genotips.
 genoveva.
 gentē.
@@ -79286,6 +79290,7 @@ jošana.
 jošanās.
 jota.
 jotos.
+joza.
 jozdama.
 jozdamas.
 jozdami.
@@ -81963,6 +81968,7 @@ klīveris.
 klīverkoks.
 klīvlenda.
 kloāka.
+klods.
 kloķiem.
 kloķis.
 kloķsvira.
@@ -84697,6 +84703,7 @@ krokveidīgs.
 kromaņjonietis.
 kromoglikāts.
 krona.
+kronas.
 kronējums.
 kronēt.
 kroninu.
@@ -85541,6 +85548,7 @@ kvitējums.
 kvitēt.
 kvīnslenda.
 kvīts.
+kvo.
 kvocients.
 kvorums.
 kvota.
@@ -88411,6 +88419,7 @@ lobijs.
 lobīt.
 lobītājs.
 lobošies.
+lobotomizēti.
 lobt.
 loceklis.
 locekļi.
@@ -88493,6 +88502,7 @@ lokatīvs.
 lokators.
 lokauts.
 lokā.
+lokācija.
 lokālais.
 lokālajā.
 lokālā.
@@ -88606,6 +88616,7 @@ lotus.
 loze.
 lozēt.
 lozētājs.
+lozungiem.
 lozungs.
 loža.
 ložmetējkalns.
@@ -94835,6 +94846,7 @@ negludināta.
 negludinu.
 negludums.
 negodīgums.
+negodprātīgs.
 negods.
 negrauzdēta.
 negrib.
@@ -97019,8 +97031,8 @@ nepieliecoties.
 nepielūdzamība.
 nepieļaujami.
 nepiemetas.
-nepiemērorts.
 nepiemērota.
+nepiemērots.
 nepieminēja.
 nepienākas.
 nepienākšot.
@@ -98179,6 +98191,7 @@ nevienādiem.
 nevienādmalu.
 neviendabīgums.
 nevienkāršojums.
+nevienlīdzība.
 nevienmērīgi.
 nevienmērīgums.
 neviennozīmība.
@@ -103932,7 +103945,6 @@ noritēja.
 noritēt.
 noritētu.
 noritināt.
-norīa.
 norībēt.
 norībināt.
 norīkojumatļauja.
@@ -108575,6 +108587,7 @@ otava.
 otello.
 otējums.
 otīlija.
+otkats.
 oto.
 otokars.
 otolaringologs.
@@ -118048,6 +118061,7 @@ pazemošanu.
 pazemot.
 pazemota.
 pazemotājs.
+pazemoti.
 pazems.
 pazēģelēt.
 pazibeņot.
@@ -133656,6 +133670,7 @@ plēsīšos.
 plēsīšoties.
 plēsonis.
 plēsonība.
+plēsonīgāks.
 plēsonīgs.
 plēsoņa.
 plēst.
@@ -139552,6 +139567,7 @@ rotējošā.
 rotēt.
 rotīt.
 rotkalis.
+rotkaļu.
 rotmistrs.
 rotonda.
 rotors.
@@ -157007,7 +157023,6 @@ switchboard.
 šībrīža.
 šīferis.
 šīgada.
-šīī.
 šīm.
 šīrgaļa.
 šīs.
@@ -160593,7 +160608,6 @@ trepes.
 trepi.
 tresains.
 trese.
-tresot.
 trests.
 trešais.
 trešajam.
@@ -161102,6 +161116,7 @@ trokšņu.
 trolejbusā.
 trolejbuss.
 trollis.
+troļļu.
 trombīns.
 trombocīts.
 trombolīze.
@@ -168174,7 +168189,6 @@ užava.
 ūdrāda.
 ūdrēns.
 ūdrs.
-ūens.
 ūjināt.
 ūka.
 ūķis.
@@ -170402,6 +170416,7 @@ vēzēt.
 vēziens.
 vēzis.
 vēzt.
+vēža.
 vēžkopība.
 vēžot.
 vēžotājs.
@@ -174175,7 +174190,6 @@ vīgo.
 vīgrieze.
 vīģe.
 vīģeskoks.
-vīiriešu.
 vīkals.
 vīkendā.
 vīksna.
@@ -174330,6 +174344,7 @@ vladislava.
 vladislavs.
 vladivostoka.
 vlasovietis.
+vlogs.
 vobla.
 vodeviļa.
 vokalizācija.

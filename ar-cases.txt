@@ -1,0 +1,261 @@
+== 36068 mbrola: Warning: _-? unkown, replaced with _-_ ==
+أتوزر. ?t'uuzr
+أحذون. ?HDu'una
+أزب. ?zb
+أكحسبه. ?kHsbh
+آصلن. ?'aas[ln
+== 1852 mbrola: Warning: r-? unkown, replaced with _-_ ==
+أهرئا. ?hr?'aa
+تتبر. tat'ibr
+ورأتما. wr?tm'aa
+يستبرئنان. jstbr?n'aan
+يستقرئن. jstqr?n
+== 1731 mbrola: Warning: t-? unkown, replaced with _-_ ==
+أرتئين. ?rt?i'ina
+تستئيس. tast?'iis
+يتأثمنان. jt?Tmn'aan
+يرتئسوا. jrt?s'uu
+يستأمر. jst?mr
+== 1406 mbrola: Warning: j-? unkown, replaced with _-_ ==
+ايئب. 'aj?b
+تيأسين. taj?si'ina
+يؤبينان. j?b,iin'aan
+يأتزرون. j?tzru'una
+يأمنان. j?mn'aan
+== 1328 mbrola: Warning: l-? unkown, replaced with _-_ ==
+فلإنكما. fl?,inkum'aa
+لئمن. l?mn
+ملئتم. ml?tm
+مولئتن. m'uul?tn
+نلئم. nl?m
+== 1272 mbrola: Warning: b-? unkown, replaced with _-_ ==
+أخبئ. ?Xb?
+اعبآن. aAb?'aan
+نختبئ. nXtb?
+يأبآن. j?b?'aan
+يوبئان. jb?'aan
+== 1150 mbrola: Warning: t.-? unkown, replaced with _-_ ==
+توطأ. taw'at[?
+خطئنان. Xt[?n'aan
+طئي. t[?'ii
+مستبشع. mstbSA
+يحضون. jHdHu'una
+== 1023 mbrola: Warning: f-? unkown, replaced with _-_ ==
+ادفأنان. adf?n'aan
+كغيري. kgH,iir'ii
+مراعي. mr,aaA'ii
+يتدفؤون. jtdf?u'una
+يفأ. jf?
+== 971 mbrola: Warning: k-? unkown, replaced with _-_ ==
+أواكئ. ?'uuk?
+كأجمعنا. k?dZmAn'aa
+لكأنهن. lk?nh'unna
+وكأجمعنا. wk?dZmAn'aa
+يتقينون. jtq,iin,au'una
+== 894 mbrola: Warning: n-? unkown, replaced with _-_ ==
+أنأيت. ?n?i'iat
+انئيد. an?'iid
+نؤكلن. n?kln
+هنأتما. hn?tm'aa
+يدن. jdn
+== 892 mbrola: Warning: m-? unkown, replaced with _-_ ==
+اشمأززت. 'aSm?zzat
+ظمآن. Zam?'aan
+مؤذي. m?D'ii
+ومئا. wm?'aa
+يظمئنان. jZm?n'aan
+== 764 mbrola: Warning: d-? unkown, replaced with _-_ ==
+ايدآن. ajd?'aan
+بادئ. b'aad?
+تردؤون. tar,id?u'una
+حدأ. Hd?
+دئلن. d?ln
+== 625 mbrola: Warning: w-? unkown, replaced with _-_ ==
+توأمة. t'aw?mt
+ناهي. n,aah'ii
+نوأوئن. n,uu?'uu?n
+وأباك. w?ba'aka
+ووئمتم. w?mtm
+== 593 mbrola: Warning: Z-? unkown, replaced with _-_ ==
+تلتجأن. t'altdZ?n
+فاجئان. f,aadZ?'aan
+لواجئ. l'uudZ?
+نفجأن. nfdZ?n
+يرجأنان. jrdZ?n'aan
+== 583 mbrola: Warning: ?-? unkown, replaced with _-_ ==
+أإلى. ??il'aa
+أئنت. ??n'at
+تؤأدي. ta??d'ii
+تؤأسي. ta??s'ii
+نأؤف. n??f
+== 539 mbrola: Warning: S-? unkown, replaced with _-_ ==
+نشأمن. nS?mn
+يجشئان. jdZS?'aan
+يجشآن. jdZS?'aan
+يرشأ. jrS?
+يشأمن. jS?mn
+== 501 mbrola: Warning: z-? unkown, replaced with _-_ ==
+زأرتا. z?rt'aa
+زئمنا. z?mn'aa
+هزئن. hz?n
+يستهدين. jsthdi'ina
+ينزؤن. jnz?n
+== 389 mbrola: Warning: d.-? unkown, replaced with _-_ ==
+تضؤلين. tadH?li'ina
+توضؤ. t'awdH?
+توضئنان. tawdH?n'aan
+ضأضئنان. dH?dH?n'aan
+ضأضئي. dH?dH?'ii
+== 371 mbrola: Warning: D-? unkown, replaced with _-_ ==
+تبذئون. tabD?u'una
+ذؤن. D?n
+وذأتن. wD?tn
+يبذئون. jbD?u'una
+يذأب. jD?b
+== 271 mbrola: Warning: s-? unkown, replaced with _-_ ==
+انسأ. 'ans?
+تخسئي. taXs?'ii
+تس. tas'iin
+سأمتم. s?mtm
+يسأم. js?m
+== 157 mbrola: Warning: q-? unkown, replaced with _-_ ==
+افقأ. 'afq?
+انفقأ. 'anfq?
+تقأنان. taq?n'aan
+فقئن. fq?n
+يقئنان. jq?n'aan
+== 143 mbrola: Warning: d.-a unkown, replaced with _-_ ==
+تعاضضت. taAa'adHdHat
+تفضلنان. tafdHln'aan
+تقضبين. taq,adHbi'ina
+مضت. m'adHdHat
+وضاعة. w,adHa'aAah
+== 133 mbrola: Warning: T-? unkown, replaced with _-_ ==
+اثأر. 'aT?r
+تثأرن. t'aT?rn
+ثئبن. T?bn
+مث. mT
+نثأ. nT?
+== 66 mbrola: Warning: d.-u unkown, replaced with _-_ ==
+بضنان. bdHn'aan
+ترضون. tar,adHdHu'una
+تغضن. tagH'adHdHun
+تنضو. tan'adHw
+حضنتن. HdHntn
+== 55 mbrola: Warning: h-? unkown, replaced with _-_ ==
+أه. h'amzahh
+فلهؤلاء. flh?l'aa?
+هأنتم. h?ntm
+هؤور. h?'uur
+وهؤلاء. wh?l'aa?
+== 38 mbrola: Warning: d.-i unkown, replaced with _-_ ==
+انقضيتما. ,anqdHiitm'aa
+فضيت. f,idHdHi'ijat
+متحصن. mtHs[n
+معضد. muA'adHdHid
+موضة. mu'udHah
+== 12 mbrola: Warning: tS-a unkown, replaced with _-_ ==
+بودروا. b,uudr'uu
+تتشادي. tatS,aad'iij
+تشاخن. taS'aaXn
+تشادت. tSa'adat
+تشارلز. tS'aarlz
+== 11 mbrola: Warning: a-tS unkown, replaced with _-_ ==
+تنتسلي. tantsl'ii
+تنتسلين. tantsli'ina
+تنتشوا. tanatS'uu
+تنتشون. tan,atSu'una
+نتشبهن. ntSbh'unna
+== 9 mbrola: Warning: _-tS unkown, replaced with _-_ ==
+تشاخ. taS'aaX
+تشاخن. taS'aaXn
+تشادان. taS,aad'aan
+تشادوا. tS,aad'uu
+تشيك. taS'iik
+== 7 mbrola: Warning: h-a# unkown, replaced with _-_ ==
+###أسماء	3. (en)h'aSha#Sh,aS(ar) ?sm'aa? T,ala'aTah
+###اسم-الفاعل##. (en)h'aSha#Sh,aS(ar) 'ism?alfa'aAil (en)h'aShaS(ar)
+####الأسماء####. (en)h'aSha#Sh,aS(ar) ?al?sm'aa? (en)h'aSha#Sh,aS(ar)
+مفرخ. m'afraX
+مفرد. m'ufrad
+== 7 mbrola: Warning: a#-S unkown, replaced with _-_ ==
+###اسم-الفاعل##. (en)h'aSha#Sh,aS(ar) 'ism?alfa'aAil (en)h'aShaS(ar)
+####الأسماء####. (en)h'aSha#Sh,aS(ar) ?al?sm'aa? (en)h'aSha#Sh,aS(ar)
+##المصادر###. (en)h'aShaS(ar) ?alm,us[a'adar (en)h'aSha#Sh,aS(ar)
+مفرد. m'ufrad
+###مفرداتTB+مختلفات###. (en)h'aSha#Sh,aS(ar) m,ufrad'aat(en)t'i:b'i: pl'Vs(ar) mXtlfa'aat (en)h'aSha#Sh,aS(ar)
+== 3 mbrola: Warning: tS-u unkown, replaced with _-_ ==
+تنتشنان. tantSn'aan
+تنتشوا. tanatS'uu
+تنتشون. tan,atSu'una
+نتشهين. ntShi'ina
+نتشوا. natS'uu
+== 3 mbrola: Warning: tS-_ unkown, replaced with _-_ ==
+تنتش. tan'atS
+سندوا. s,anad'uu
+سندويتش. sandw'iitS
+نتسيطرن. nts'iit[rn
+نتش. n'atS
+== 3 mbrola: Warning: tS-i unkown, replaced with _-_ ==
+تشيكوسلوفاكي. tS,iik,uusl,uuf,aak'iij
+تشيلون. taS,iilu'una
+تشيلي. tS,iil'iij
+تنتشيان. tantS'iin
+تنتشين. tan,atSi'ina
+== 3 mbrola: Warning: i-tS unkown, replaced with _-_ ==
+بودرنا. b,uudrn'aa
+بودغوريتشا. b,uudgH,uur,iitS'aa
+ريبورتاج. r,iib,uurt'aadZ
+سندنان. sndn'aan
+سندوا. s,anad'uu
+== 2 mbrola: Warning: x-? unkown, replaced with _-_ ==
+حيينان. H,iin'aan
+خ. X'aa?
+خؤور. X?'uur
+خؤولة. X?'uult
+== 2 mbrola: Warning: X-? unkown, replaced with _-_ ==
+جيولوجيا. dZ,ii,uul,uudZ,ii'aa
+ح. H'aa?
+حؤول. H?'uul
+صباة. s[b'aat
+صباحئذ. s[b'aaH?D
+== 2 mbrola: Warning: @-_ unkown, replaced with _-_ ==
+== 2 mbrola: Warning: t-@ unkown, replaced with _-_ ==
+أبري. 'a l'et@_|s'ittah_|X'amsah_|?arb'aAah_: b'aa? r'aa? j'aa?
+##اﻷسماء	4. (en)h'aShaS(ar) 'a l'et@_|'ef_|'i:_|'ef_|s'abAah_: s'iin m'iim 'a h'amzah ?arb'aAah
+== 2 mbrola: Warning: l-e unkown, replaced with _-_ ==
+ابروا. abr'uu
+ابري. abr'ii
+أبري. 'a l'et@_|s'ittah_|X'amsah_|?arb'aAah_: b'aa? r'aa? j'aa?
+الآن. al?'aan
+##اﻷسماء	4. (en)h'aShaS(ar) 'a l'et@_|'ef_|'i:_|'ef_|s'abAah_: s'iin m'iim 'a h'amzah ?arb'aAah
+== 2 mbrola: Warning: _-e unkown, replaced with _-_ ==
+== 2 mbrola: Warning: e-t unkown, replaced with _-_ ==
+ابري. abr'ii
+أبري. 'a l'et@_|s'ittah_|X'amsah_|?arb'aAah_: b'aa? r'aa? j'aa?
+##اﻷسماء	4. (en)h'aShaS(ar) 'a l'et@_|'ef_|'i:_|'ef_|s'abAah_: s'iin m'iim 'a h'amzah ?arb'aAah
+== 2 mbrola: Warning: e-f unkown, replaced with _-_ ==
+== 1 mbrola: Warning: z.-? unkown, replaced with _-_ ==
+طيور. t['iir
+ظ. Z'aa?
+ظأنة. Z?nt
+== 1 mbrola: Warning: V-s unkown, replaced with _-_ ==
+== 1 mbrola: Warning: tS-k unkown, replaced with _-_ ==
+نتشققن. ntSqqn
+نتشك. n'atSka
+== 1 mbrola: Warning: tS-h unkown, replaced with _-_ ==
+نتشننن. ntSnnn
+نتشه. n'atSh
+== 1 mbrola: Warning: t-i: unkown, replaced with _-_ ==
+###مفرداتTB+مختلفات###. (en)h'aSha#Sh,aS(ar) m,ufrad'aat(en)t'i:b'i: pl'Vs(ar) mXtlfa'aat (en)h'aSha#Sh,aS(ar)
+== 1 mbrola: Warning: l-V unkown, replaced with _-_ ==
+== 1 mbrola: Warning: i:-l unkown, replaced with _-_ ==
+== 1 mbrola: Warning: i:-b unkown, replaced with _-_ ==
+== 1 mbrola: Warning: b-i: unkown, replaced with _-_ ==
+== 1 mbrola: Warning: a.-? unkown, replaced with _-_ ==
+ضآ. dH?'aa
+ضآلة. dH,a?a'alah
+== 1 mbrola: Saturation on z.-a. ==
+ظلتما. Zltm'aa
+ظلتن. Zltn
+ظلع. Z'alA

@@ -1,0 +1,527 @@
+== 6182 mbrola: Warning: z-m unkown, replaced with _-_ ==	
+brahmanismo.	[[ bR,am&n'izmU]]
+expectantismo.	[[ ,espekt&~NtS'izmU]]
+metatrofismo.	[[ m,etatRof'izmU]]
+orismo.	[[ ,o*'izmU]]
+utilitarianismo.	[[ ,utSil,ita*,i;&n'izmU]]
+== 5898 mbrola: Warning: r-t unkown, replaced with _-_ ==	
+cartulário.	[[ k,a*@-tul'a*jU]]
+cortinheiro.	[[ k,o*@-tSin^'eI*U]]
+inconvertibilismo.	[[ ,iNkoNv,e*@-tSibil'izmU]]
+portlandiano.	[[ p,o*@-tl&~NdZi;'&~nU]]
+tinta-de-pé-curto.	[[ tS'iNt&dZyp'Ek'u*@-tU]]
+== 5718 mbrola: Warning: r-m unkown, replaced with _-_ ==	
+carmichaélia.	[[ k,a*@-miSa'Elj&]]
+espermatóforo.	[[ ,espe*@-mat'Ofo*U]]
+hormínea.	[[ ,o*@-m'ine&]]
+supermutante.	[[ s,upe*@-mut'&~NtSy]]
+traquimírmex.	[[ tR,akim'i*@-mEks]]
+== 5112 mbrola: Warning: r-d unkown, replaced with _-_ ==	
+cabriúvas-pardas.	[[ k,abRi;'uv&sp'a*@-d&s]]
+cordelejo.	[[ k,o*@-del'eZU]]
+garoupa-verdadeira.	[[ g,a*'owp&v,e*@-dad'eI*&]]
+hastiverde.	[[ ,astSiv'E*@-dZy]]
+pau-de-merda.	[[ p'aUdZym'E*@-d&]]
+== 3317 mbrola: Warning: r-k unkown, replaced with _-_ ==	
+circadiano.	[[ s,i*@-kadZi;'&~nU]]
+funchos-de-porco.	[[ f'u~NSUsdZyp'o*@-kU]]
+intercomunicante.	[[ ,iNte*@-k,omunik'&~NtSy]]
+monarcolátrico.	[[ m,ona*@-kol'atRikU]]
+retorquir.	[[ x,eto*@-k'ir]]
+== 3164 mbrola: Warning: r-n unkown, replaced with _-_ ==	
+cianicórneo.	[[ s,i;&nik'O*@-neU]]
+endoesternito.	[[ ,eINdo,este*@-n'itU]]
+grama-de-pernambuco.	[[ gR'&~m&dZyp,e*@-n&~Nb'ukU]]
+pornofônico.	[[ p,o*@-nof'onikU]]
+trimosterno.	[[ tR,imost'E*@-nU]]
+== 3140 mbrola: Warning: r-s unkown, replaced with _-_ ==	
+albitarso.	[[ ,aUbit'a*@-sU]]
+cibersegurança.	[[ s,ibe*@-s,egu*'&~Ns&]]
+marcela-francesa.	[[ m,a*@-s'El&fR,&~Ns'ez&]]
+marceneiros.	[[ m,a*@-sen'eI*Us]]
+parcelável.	[[ p,a*@-sel'aveU]]
+== 2223 mbrola: Warning: r-v unkown, replaced with _-_ ==	
+algarve.	[[ ,aUg'a*@-vy]]
+carvalhos-roble.	[[ k,a*@-v'al^Usx'obly]]
+erva-de-pântano.	[[ 'E*@-v&dZyp'&~Nt&nU]]
+fissinérveo.	[[ f,isin'E*@-veU]]
+nirvanol.	[[ n,i*@-v&~n'Ol]]
+== 2162 mbrola: Warning: r-b unkown, replaced with _-_ ==	
+absorbente.	[[ ,abso*@-b'eINtSy]]
+barbo-ticto.	[[ b'a*@-bUtS'iktU]]
+carbonetos.	[[ k,a*@-bon'etUs]]
+hexobarbital.	[[ ,eksob,a*@-bit'aU]]
+terbogrel.	[[ t,e*@-bogR'EU]]
+== 2071 mbrola: Warning: r-g unkown, replaced with _-_ ==	
+argonautógrafo.	[[ ,a*@-gonaUt'OgR&fU]]
+cabeças-amargas.	[[ k,ab'es&z,&m'a*@-g&s]]
+macroergata.	[[ m,akRoe*@-g'at&]]
+mergulhia.	[[ m,e*@-gul^'i;&]]
+sirgueta.	[[ s,i*@-g'et&]]
+== 1617 mbrola: Warning: k-t unkown, replaced with _-_ ==	
+actinosquisto.	[[ ,aktSinosk'istU]]
+dioctilflalato.	[[ dZ,i;oktS,iUflal'atU]]
+extractiforme.	[[ ,estRaktSif'O*@-my]]
+noctícola.	[[ n,oktS'ikol&]]
+psicoléctico.	[[ ps,ikol'EktSikU]]
+== 1506 mbrola: Warning: r-p unkown, replaced with _-_ ==	
+ectocárpea.	[[ ,ektok'a*@-pe&]]
+harpanela.	[[ ,a*@-p&n'El&]]
+hirpo.	[[ 'i*@-pU]]
+perpétua-branca.	[[ p,e*@-p'Etu&bR'&~Nk&]]
+zurpa.	[[ z'u*@-p&]]
+== 1399 mbrola: Warning: r-j unkown, replaced with _-_ ==	
+barges.	[[ b'a*@-Zys]]
+bourgeia.	[[ b,ow*@-Z'eI;&]]
+Edvirgens.	[[ ,edZIv'i*@-ZeINs#]]
+interjetivar.	[[ ,iNte*@-Z,etSiv'ar]]
+sargentear.	[[ s,a*@-ZeINte'ar]]
+== 1347 mbrola: Warning: r-f unkown, replaced with _-_ ==	
+conorfona.	[[ k,ono*@-f'on&]]
+escarfunchar.	[[ ,eska*@-fu~NS'ar]]
+furfurilato.	[[ f,u*@-fu*il'atU]]
+miomórfico.	[[ m,i;om'O*@-fikU]]
+pau-marfim-da-serra.	[[ p'aUma*@-f'iNdas'Ex&]]
+== 654 mbrola: Warning: p-t unkown, replaced with _-_ ==	
+anacloridropéptico.	[[ ,&nakl,o*idRop'EptSikU]]
+anaglíptico.	[[ ,&nagl'iptSikU]]
+dipéptido.	[[ dZ,ip'EptSidU]]
+fotoglíptico.	[[ f,otogl'iptSikU]]
+fotóptico.	[[ f,ot'OptSikU]]
+== 633 mbrola: Warning: r-l unkown, replaced with _-_ ==	
+garlopa.	[[ g,a*@-l'Op&]]
+irlanda.	[[ ,i*@-l'&~Nd&]]
+neerlando-francês.	[[ n,ee*@-l'&~NdUfR&~Ns'es]]
+perlipateta.	[[ p,e*@-lipat'Et&]]
+perlocucionário.	[[ p,e*@-lok,usi;on'a*jU]]
+== 580 mbrola: Warning: z-b unkown, replaced with _-_ ==	
+desbarar.	[[ d,ezba*'ar]]
+esbicar.	[[ ,ezbik'ar]]
+esbonita.	[[ ,ezbon'it&]]
+surubins-barbados.	[[ s,u*ub'iNzb,a*@-b'adUs]]
+tucuns-bravos.	[[ tuk'u~NzbR'avUs]]
+== 522 mbrola: Warning: z-d unkown, replaced with _-_ ==	
+angelins-de-folha-larga.	[[ ,&~NZel'iNzdZyf'ol^&l'a*@-g&]]
+araticuns-do-mato.	[[ ,a*atSik'u~NzdUm'atU]]
+capins-de-santa-luzia.	[[ kap'iNzdZys'&~Nt&l,uz'i;&]]
+disdiadococinesia.	[[ dZ,izdZi;,adok,osinez'i;&]]
+peras-lambe-os-dedos.	[[ p'E*&sl'&~NbjUzd'edUs]]
+== 508 mbrola: Warning: z-g unkown, replaced with _-_ ==	
+desgavelar.	[[ d,ezgavel'ar]]
+desgraçar.	[[ d,ezgRas'ar]]
+esgarabanhar.	[[ ,ezga*,ab&~n^'ar]]
+esgaravatação.	[[ ,ezga*,avatas'&U~]]
+rato-musgo.	[[ x'atUm'uzgU]]
+== 396 mbrola: Warning: z-l unkown, replaced with _-_ ==	
+broslar.	[[ bRozl'ar]]
+Casluim.	[[ k,azlu'iN]]
+eslanhado.	[[ ,ezl&~n^'adU]]
+eslovacofalante.	[[ ,ezlov,akofal'&~NtSy]]
+pós-translacional.	[[ p'OstR,&~Nzlas,i;on'aU]]
+== 343 mbrola: Warning: r-z unkown, replaced with _-_ ==	
+garzeta.	[[ g,a*@-z'Et&]]
+lugarzinho.	[[ l,uga*@-z'in^U]]
+macuquinho-da-várzea.	[[ m,akuk'in^Udav'a*@-ze&]]
+periquito-da-várzea.	[[ p,e*ik'itUdav'a*@-ze&]]
+várzea-cedrense.	[[ v'a*@-ze&s,edR'eINsy]]
+== 287 mbrola: Warning: z-n unkown, replaced with _-_ ==	
+asnático.	[[ ,azn'atSikU]]
+cisne-branco.	[[ s'iznybR'&~NkU]]
+fresnel.	[[ fRezn'EU]]
+gansos-cisne.	[[ g'&~NsUss'izny]]
+gasnir.	[[ gazn'ir]]
+== 282 mbrola: Warning: z-v unkown, replaced with _-_ ==	
+autodesvendamento.	[[ ,aUtod,ezveINd&m'eINtU]]
+mbrola: Warning: r-d unkown, replaced with _-_	
+mbrola: Warning: r-d unkown, replaced with _-_	
+mbrola: Warning: r-s unkown, replaced with _-_	
+trasvasar.	[[ tR,azvaz'ar]]
+== 160 mbrola: Warning: m-b unkown, replaced with _-_ ==	
+âmbar-amarelo.	[[ '&~mba*,&ma*'ElU]]
+di-iâmbico.	[[ dZ'ij'&~mbikU]]
+notâmbulo.	[[ n,ot'&~mbulU]]
+palímbotro.	[[ p,al'imbotRU]]
+zâmbio.	[[ z'&~mbjU]]
+== 153 mbrola: Warning: r-x unkown, replaced with _-_ ==	
+alparcheiro.	[[ ,aUpa*@-S'eI*U]]
+marchas-caminheiras.	[[ m'a*@-S&sk,&min^'eI*&s]]
+marshallino.	[[ m,a*@-Sal'inU]]
+morchetar.	[[ m,o*@-Set'ar]]
+parcho.	[[ p'a*@-SU]]
+== 150 mbrola: Warning: r-s2 unkown, replaced with _-_ ==	
+freezers.	[[ fR,eez'e*@-s#]]
+gerstlevita.	[[ Z,e*@-stlev'it&]]
+perspetivável.	[[ p,e*@-spetSiv'aveU]]
+superstição.	[[ s,upe*@-stSis'&U~]]
+trailers.	[[ tRaIl'e*@-s#]]
+== 149 mbrola: Warning: n-_ unkown, replaced with _-_ ==	
+calvin..	[[ kaUv'in]]
+Celestin.	[[ s,elestS'in]]
+combin..	[[ koNb'in]]
+mbrola: Warning: x-t unkown, replaced with _-_	
+técn..	[[ t'EkIn]]
+== 125 mbrola: Warning: _-y unkown, replaced with _-_ ==	
+iiá-quequerê.	[[ ji;'ak,eke*'e]]
+iuiraense.	[[ j,uI*a'eINsy]]
+iuiteporanense.	[[ j,uItep,o*&n'eINsy]]
+iurimagua.	[[ j,u*im'agw&]]
+iurupiranga.	[[ j,u*upi*'&~Ng&]]
+== 114 mbrola: Warning: z-rr unkown, replaced with _-_ ==	
+desrabar.	[[ d,ezxab'ar]]
+Israel.	[[ ,izxa'EU]]
+israelo-palestiniano.	[[ ,izxa'ElUp,alestS,ini;'&~nU]]
+Osram.	[[ 'ozx&U~]]
+vasroli.	[[ v,azxol'i]]
+== 106 mbrola: Warning: m-p unkown, replaced with _-_ ==	
+mbrola: Warning: r-d unkown, replaced with _-_	
+mbrola: Warning: r-d unkown, replaced with _-_	
+relacionamento-relâmpago.	[[ x,elas,i;on&m'eINtUx,el'&~mp&gU]]
+romances-relâmpago.	[[ x,om'&~Nsysx,el'&~mp&gU]]
+tímpano.	[[ tS'imp&nU]]
+== 100 mbrola: Warning: p-s2 unkown, replaced with _-_ ==	
+crísops.	[[ kR'izops#]]
+háploops.	[[ 'aploops#]]
+mbrola: Warning: r-k unkown, replaced with _-_	
+mbrola: Warning: r-k unkown, replaced with _-_	
+mbrola: Warning: r-s unkown, replaced with _-_	
+== 84 mbrola: Warning: _-w unkown, replaced with _-_ ==	
+liônia.	[[ lj'onj&]]
+LNEC.	[[ ln'ek]]
+luís-teixeira.	[[ lw'ist,eIS'eI*&]]
+uolofonia.	[[ w,olofon'i;&]]
+uomaloliense.	[[ w,omal,oli;'eINsy]]
+== 72 mbrola: Warning: z-j unkown, replaced with _-_ ==	
+desgelável.	[[ d,ezZel'aveU]]
+disgeógeno.	[[ dZ,izZe'OZenU]]
+disgerminômico.	[[ dZ,izZe*@-min'omikU]]
+fosgênio.	[[ f,ozZ'enjU]]
+tiofosgênico.	[[ tS,i;ofozZ'enikU]]
+== 68 mbrola: Warning: m-_ unkown, replaced with _-_ ==	
+helm..	[[ 'EUm]]
+IPM.	[[ 'ipIm]]
+megohm.	[[ meg'om]]
+Naum.	[[ n'aUm]]
+UFVJM.	[[ 'ufIvIZIm]]
+== 53 mbrola: Warning: g-r2 unkown, replaced with _-_ ==	
+calcogr..	[[ kaUk'ogr]]
+historiogr..	[[ ,isto*i;'ogr]]
+monogr..	[[ mon'ogr]]
+paleogr..	[[ p,ale'ogr]]
+xerogr..	[[ Se*'ogr]]
+== 49 mbrola: Warning: m-n unkown, replaced with _-_ ==	
+acrotâmnio.	[[ ,akRot'&~mnjU]]
+calitâmnio.	[[ k,alit'&~mnjU]]
+estrímnico.	[[ ,estR'imnikU]]
+estrímnida.	[[ ,estR'imnid&]]
+metalímnio.	[[ m,etal'imnjU]]
+== 28 mbrola: Warning: t-r2 unkown, replaced with _-_ ==	
+bitr..	[[ b'itr]]
+elétr..	[[ el'Etr]]
+ostr..	[[ 'ostr]]
+petr..	[[ p'etr]]
+restr..	[[ x'estr]]
+== 28 mbrola: Warning: s2-s2 unkown, replaced with _-_ ==	
+MMLXXXI.	[[ ,eme,eme'ElyssS'i]]
+MMLXXXVIII.	[[ ,eme,eme,ElyS'is#ssvjj'i]]
+MMXXVI.	[[ ,eme'emessv'i]]
+MMXXVIII.	[[ ,eme'emessvjj'i]]
+MMXXXIX.	[[ ,eme'emessS'iks]]
+== 26 mbrola: Warning: y-w unkown, replaced with _-_ ==	
+caiuá.	[[ kaIw'a]]
+camaiuá.	[[ k,&maIw'a]]
+e-mails.	[[ im'eIls]]
+taiwanês.	[[ t,aIw&~n'es]]
+tuiuiuense.	[[ twjwj,u'eINsy]]
+== 23 mbrola: Warning: x-t unkown, replaced with _-_ ==	
+alushtita.	[[ ,aluStS'it&]]
+bráchtia.	[[ bR'aStSi;&]]
+brechtiano.	[[ bR,eStSi;'&~nU]]
+Liechtenstein.	[[ l,i;eSt,eINste'in]]
+richterite.	[[ x,iSte*'itSy]]
+== 18 mbrola: Warning: t-p unkown, replaced with _-_ ==	
+h.cont..	[[ ag'a p'oNtU k'oNtS p'oNtU]]
+mbrola: Warning: r-t unkown, replaced with _-_	
+mbrola: Warning: r-t unkown, replaced with _-_	
+mbrola: Warning: r-t unkown, replaced with _-_	
+mit.m..	[[ m'itS p'oNtw 'eme p'oNtU]]
+== 16 mbrola: Warning: k-r2 unkown, replaced with _-_ ==	
+ECR.	[[ 'ekr]]
+sânscr..	[[ s'&~Nskr]]
+secr..	[[ s'ekr]]
+ucr..	[[ 'ukr]]
+xucr.	[[ S'ukr]]
+== 15 mbrola: Warning: x-m unkown, replaced with _-_ ==	
+beilschmídtia.	[[ b,eiUsSm'idZItSj&]]
+Goldschmidt.	[[ g,owdZIsSm'idZItS]]
+goldschmidtita.	[[ g,owdZIsSm,idZItS'it&]]
+schmitterita.	[[ IsSm,itSIte*'it&]]
+trechmannita.	[[ tR,eSm&~Nn'it&]]
+== 14 mbrola: Warning: rr-_ unkown, replaced with _-_ ==	
+interr..	[[ iNt'ex]]
+mbrola: Warning: f-rr unkown, replaced with _-_	
+mbrola: Warning: z-rr unkown, replaced with _-_	
+otorr..	[[ ot'ox]]
+terr..	[[ t'ex]]
+== 13 mbrola: Warning: z-z unkown, replaced with _-_ ==	
+deszincificação.	[[ d,ezziNs,ifikas'&U~]]
+lilászinho.	[[ l,il'azzin^U]]
+lisztiano.	[[ l,izzItSi;'&~nU]]
+paíszinho.	[[ p,a'izzin^U]]
+xiszinho.	[[ S,izz'in^U]]
+== 12 mbrola: Warning: x-s unkown, replaced with _-_ ==	
+fuchsia.	[[ f,uSs'i;&]]
+fúchsia.	[[ f'uSsi;&]]
+fuchsinado.	[[ f,uSsin'adU]]
+fuchsite.	[[ f,uSs'itSy]]
+lipofuchsina.	[[ l,ipofuSs'in&]]
+== 12 mbrola: Warning: x-n unkown, replaced with _-_ ==	
+bretschneidera.	[[ bR,etSIsSneId'E*&]]
+bretschneideráceo.	[[ bR,etSIsSn,eIde*'aseU]]
+petchnegue.	[[ p,etSISn'Egy]]
+steinbachnéria.	[[ Ist,eiNbaSn'E*j&]]
+techno.	[[ t'eSnU]]
+== 12 mbrola: Warning: x-l unkown, replaced with _-_ ==	
+bichlamar.	[[ b,iSl&m'ar]]
+chlamydia.	[[ Sl,&~midZ'i;&]]
+rashleighita.	[[ x,aSleig'it&]]
+schlegeliano.	[[ IsSl,eZeli;'&~nU]]
+schleichéria.	[[ IsSl,eiS'E*j&]]
+== 11 mbrola: Warning: z-r unkown, replaced with _-_ ==	
+abiezrita.	[[ ,abi;ezR'it&]]
+ezraíta.	[[ ,ezRa'it&]]
+ezrina.	[[ ,ezR'in&]]
+hezronitas.	[[ ,ezRon'it&s]]
+jizreelita.	[[ Z,izReel'it&]]
+== 10 mbrola: Warning: p-r2 unkown, replaced with _-_ ==	
+compr..	[[ k'oNpr]]
+depr..	[[ d'epr]]
+empr..	[[ 'eImpr]]
+recípr..	[[ xes'ipr]]
+UFPR.	[[ 'ufIpr]]
+== 10 mbrola: Warning: b-r2 unkown, replaced with _-_ ==	
+Abr..	[[ 'abr]]
+hebr..	[[ 'ebr]]
+híbr..	[[ 'ibr]]
+IPCBR.	[[ 'ipIkIbr]]
+Obr..	[[ 'obr]]
+== 8 mbrola: Warning: k-s2 unkown, replaced with _-_ ==	
+Brics.	[[ bR'iks#]]
+docs..	[[ d'oks#]]
+mbrola: Warning: r-k unkown, replaced with _-_	
+PACS.	[[ p'aks#]]
+punks.	[[ p'u~Nks#]]
+== 6 mbrola: Warning: n-t unkown, replaced with _-_ ==	
+enter.	[[ 'eNter]]
+mbrola: Warning: _-w unkown, replaced with _-_	
+mbrola: Warning: _-w unkown, replaced with _-_	
+Ubuntu.	[[ ,ub'untu]]
+vonThur.	[[ fOn t'ur]]
+== 6 mbrola: Warning: k-p unkown, replaced with _-_ ==	
+loc.s..	[[ l'ok p'oNtw 'Esy p'oNtU]]
+loc.v..	[[ l'ok p'oNtU v'e p'oNtU]]
+n.p.loc..	[[ ,enep'e l'ok p'oNtU]]
+s.loc..	[[ 'Esy p'oNtU l'ok p'oNtU]]
+s.p.loc..	[[ ,Esyp'e l'ok p'oNtU]]
+== 6 mbrola: Warning: j-r unkown, replaced with _-_ ==	
+TJRO.	[[ tSIZR'U]]
+utitavajrássana.	[[ ,utSit,avaZR'as&n&]]
+vajrássana.	[[ v,aZR'as&n&]]
+vajrolimudrá.	[[ v,aZRol,imudR'a]]
+vajroli.	[[ v,aZRol'i]]
+== 6 mbrola: Warning: h-_ unkown, replaced with _-_ ==	
+conselh..	[[ koNs'el^]]
+folh..	[[ f'ol^]]
+joalh..	[[ Zo'al^]]
+serralh..	[[ sex'al^]]
+trabalh..	[[ tRab'al^]]
+== 6 mbrola: Warning: b-s2 unkown, replaced with _-_ ==	
+abs..	[[ 'abs#]]
+coombs.	[[ ko'oNbs#]]
+N.Obs..	[[ 'ene p'oNtw 'obs# p'oNtU]]
+obs..	[[ 'obs#]]
+volts-coulombs.	[[ v'owtSIs#kowl'oNbs#]]
+== 5 mbrola: Warning: x-s2 unkown, replaced with _-_ ==	
+eschschóltzia.	[[ ,esSsS'OltSIzi;&]]
+eschschólzia.	[[ ,esSsS'Olzj&]]
+Hischsprung.	[[ isSspR'u~Ng]]
+hochschildita.	[[ ,oSsSiUdZ'it&]]
+pechstein.	[[ p,eSste'in]]
+== 5 mbrola: Warning: x-b unkown, replaced with _-_ ==	
+eichberguita.	[[ ,eiSbe*@-g'it&]]
+pechblenda.	[[ p,eSbl'eINd&]]
+pechblêndico.	[[ p,eSbl'eINdZikU]]
+petchblenda.	[[ p,etSISbl'eINd&]]
+petchblêndico.	[[ p,etSISbl'eINdZikU]]
+== 5 mbrola: Warning: t-s unkown, replaced with _-_ ==	
+griffíthsia.	[[ gR,ifIf'itsi;&]]
+mbrola: Warning: z-m unkown, replaced with _-_	
+smithsoniano.	[[ Ism,itsoni;'&~nU]]
+smithsonita.	[[ Ism,itson'it&]]
+smithsonítico.	[[ Ism,itson'itSikU]]
+== 5 mbrola: Warning: p-p unkown, replaced with _-_ ==	
+Cap.M.G..	[[ k'ap p'oNtw ,emeZ'e]]
+cap.m.g..	[[ k'ap p'oNtw ,emeZ'e]]
+top.f.pl..	[[ t'Op p'oNtw 'Efy p'oNtU p,e'Ely p'oNtU]]
+top.m.pl..	[[ t'Op p'oNtw 'eme p'oNtU p,e'Ely p'oNtU]]
+u.sup..	[[ 'u p'oNtU s'up p'oNtU]]
+== 5 mbrola: Warning: m-l unkown, replaced with _-_ ==	
+MMLIII.	[[ mImlij'i]]
+MMLII.	[[ mImli;'i]]
+MMLI.	[[ mIml'i]]
+MMLIV.	[[ mIml'iv]]
+MMLIX.	[[ mIml'iks]]
+== 5 mbrola: Warning: g-p unkown, replaced with _-_ ==	
+C.Ág..	[[ s'e p'oNtw 'ag p'oNtU]]
+Eng.ª.	[[ 'eINg p'oNtw ,o*@-dZin'aUfemin'i~nU]]
+eng.ª.	[[ 'eINg p'oNtw ,o*@-dZin'aUfemin'i~nU]]
+h.sag..	[[ ag'a p'oNtU s'ag p'oNtU]]
+Mag.ª.	[[ m'ag p'oNtw ,o*@-dZin'aUfemin'i~nU]]
+== 5 mbrola: Warning: f-s unkown, replaced with _-_ ==	
+BrOffice.	[[ b,e'Exe 'Ofsy]]
+BrOffice.org.	[[ b,e'Exe 'Ofsy p'oNtw 'Org]]
+LibreOffice.	[[ l'ibRi; 'Ofsy]]
+LibreOffice.org.	[[ l'ibRi; 'Ofsy p'oNtw 'Org]]
+OpenOffice.	[[ 'opeIN 'Ofsy]]
+== 5 mbrola: Warning: d-p unkown, replaced with _-_ ==	
+cu.yd..	[[ k'u p'oNtw 'id p'oNtU]]
+f.red..	[[ 'Efy p'oNtU x'ed p'oNtU]]
+h.mod..	[[ ag'a p'oNtU m'od p'oNtU]]
+yd.p.sec..	[[ 'id p'oNtU p'e p'oNtU s'ek p'oNtU]]
+sq.yd..	[[ ,Esyk'e p'oNtw 'id p'oNtU]]
+== 4 mbrola: Warning: v-p unkown, replaced with _-_ ==	
+Adv.º.	[[ 'adZIv p'oNtw ,o*@-dZin'aUmaskul'i~nU]]
+adv.º.	[[ 'adZIv p'oNtw ,o*@-dZin'aUmaskul'i~nU]]
+f.adv..	[[ 'Efy p'oNtw 'adZIv p'oNtU]]
+nav.fl..	[[ n'av p'oNtw ,Efy;'Ely p'oNtU]]
+== 4 mbrola: Warning: r-nh unkown, replaced with _-_ ==	
+hernhuto.	[[ ,e*@-n^'utU]]
+lornhão.	[[ lo*@-n^'&U~]]
+ribeirnha.	[[ x,ibe'i*@-n^&]]
+sarah-bernhardtiano.	[[ sa*'ab,e*@-n^a*@-dZItSi;'&~nU]]
+== 4 mbrola: Warning: i-ts unkown, replaced with _-_ ==	
+mbrola: Warning: b-n unkown, replaced with _-_	
+pizzaiolo.	[[ p,itsaI;'OlU]]
+pizza.	[[ p'its&]]
+pizzaria.	[[ p,itsa*'i;&]]
+== 4 mbrola: Warning: g-t unkown, replaced with _-_ ==	
+brightismo.	[[ bR,igtS'izmU]]
+clorobrightismo.	[[ kl,o*obRigtS'izmU]]
+doughtyíta.	[[ d,owgtj'it&]]
+leightonita.	[[ l,eigton'it&]]
+== 4 mbrola: Warning: b-z unkown, replaced with _-_ ==	
+Habsburgos.	[[ ,abzb'u*@-gUs]]
+subsistema.	[[ s,ubzist'em&]]
+subsistência.	[[ s,ubzist'eINsj&]]
+subsistir.	[[ s,ubzistS'ir]]
+== 3 mbrola: Warning: ts-a unkown, replaced with _-_ ==	
+mbrola: Warning: i-ts unkown, replaced with _-_	
+mbrola: Warning: i-ts unkown, replaced with _-_	
+mbrola: Warning: i-ts unkown, replaced with _-_	
+== 3 mbrola: Warning: s2-w unkown, replaced with _-_ ==	
+MMXLVI.	[[ ,eme'emeslv'i]]
+MMXLVII.	[[ ,eme'emeslvj'i]]
+MMXLVIII.	[[ ,eme'emeslvjj'i]]
+== 3 mbrola: Warning: _-s2 unkown, replaced with _-_ ==	
+status.	[[ st'atUs]]
+xrâmane.	[[ sR'&~m&ny]]
+zL.	[[ z_ s,iNkw'eINt&]]
+== 3 mbrola: Warning: f-p unkown, replaced with _-_ ==	
+mbrola: Warning: r-f unkown, replaced with _-_	
+telef.s..	[[ tel'ef p'oNtw 'Esy p'oNtU]]
+u.inf..	[[ 'u p'oNtw 'iNf p'oNtU]]
+== 3 mbrola: Warning: d-r2 unkown, replaced with _-_ ==	
+hidr..	[[ 'idr]]
+pedr..	[[ p'edr]]
+vidr..	[[ v'idr]]
+== 2 mbrola: Warning: v-r2 unkown, replaced with _-_ ==	
+Livr..	[[ l'ivr]]
+livr..	[[ l'ivr]]
+== 2 mbrola: Warning: t-d unkown, replaced with _-_ ==	
+outdoor.	[[ aUtd'Or]]
+outdoors.	[[ aUtd'Ors]]
+== 2 mbrola: Warning: t-b unkown, replaced with _-_ ==	
+notebook.	[[ nowtb'Uk]]
+rothbérgia.	[[ x,otb'E*@-Zj&]]
+== 2 mbrola: Warning: rr-t unkown, replaced with _-_ ==	
+srta..	[[ Isxt'a]]
+Srtas..	[[ Isxt'as]]
+== 2 mbrola: Warning: n-s2 unkown, replaced with _-_ ==	
+Bose-Einstein.	[[ b'Ozj'aInst,aIn]]
+einstein.	[[ _!'aInst,aIn]]
+== 2 mbrola: Warning: nh-_ unkown, replaced with _-_ ==	
+marinh..	[[ ma*'in^]]
+minh..	[[ m'in^]]
+== 2 mbrola: Warning: n-d unkown, replaced with _-_ ==	
+Anderson.	[[ '&ndersoN]]
+handebol.	[[ h,endZyb'Ow]]
+== 2 mbrola: Warning: g-z unkown, replaced with _-_ ==	
+ONG's.	[[ 'oNgzIz]]
+ONGs.	[[ 'oNgzIz]]
+== 2 mbrola: Warning: f-rr unkown, replaced with _-_ ==	
+UFRRJ.	[[ 'ufxZ]]
+UFRR.	[[ 'ufx]]
+== 2 mbrola: Warning: d-j unkown, replaced with _-_ ==	
+trondhjemítico.	[[ tR,oNdZem'itSikU]]
+trondhjemito.	[[ tR,oNdZem'itU]]
+== 1 mbrola: Warning: x-z unkown, replaced with _-_ ==	
+scheuchzeriáceo.	[[ IsS,euSz,e*i;'aseU]]
+== 1 mbrola: Warning: x-x unkown, replaced with _-_ ==	
+Dachshund.	[[ daSS'u~Nd]]
+== 1 mbrola: Warning: x-p unkown, replaced with _-_ ==	
+Bannach-PA.	[[ b&~Nn'aSp,e'a]]
+== 1 mbrola: Warning: x-k unkown, replaced with _-_ ==	
+bashkiriano.	[[ b,aSki*i;'&~nU]]
+== 1 mbrola: Warning: x-f unkown, replaced with _-_ ==	
+mbrola: Warning: r-s2 unkown, replaced with _-_	
+== 1 mbrola: Warning: ts-_ unkown, replaced with _-_ ==	
+mbrola: Warning: i-ts unkown, replaced with _-_	
+== 1 mbrola: Warning: ts-ee unkown, replaced with _-_ ==	
+mbrola: Warning: e-ts unkown, replaced with _-_	
+== 1 mbrola: Warning: t-rr unkown, replaced with _-_ ==	
+CET-Rio.	[[ s'EtSx'iU]]
+== 1 mbrola: Warning: t-m unkown, replaced with _-_ ==	
+muthmannita.	[[ m,utm&~Nn'it&]]
+== 1 mbrola: Warning: t-k unkown, replaced with _-_ ==	
+piquet-carneirense.	[[ pik'EtSk,a*@-neI*'eINsy]]
+== 1 mbrola: Warning: t-f unkown, replaced with _-_ ==	
+rothfone.	[[ x,otf'ony]]
+== 1 mbrola: Warning: rr-s2 unkown, replaced with _-_ ==	
+nanoburrs.	[[ n,&nob'uxs#]]
+== 1 mbrola: Warning: rr-j unkown, replaced with _-_ ==	
+mbrola: Warning: f-rr unkown, replaced with _-_	
+== 1 mbrola: Warning: rr-f unkown, replaced with _-_ ==	
+IRRF.	[[ 'ixf]]
+== 1 mbrola: Warning: r2-w unkown, replaced with _-_ ==	
+Darwin.	[[ d'Arwin]]
+== 1 mbrola: Warning: p-z unkown, replaced with _-_ ==	
+himenofilopsdácea.	[[ ,imen,ofilopzd'ase&]]
+== 1 mbrola: Warning: p-g unkown, replaced with _-_ ==	
+upgrade.	[[ &pgR'eId]]
+== 1 mbrola: Warning: n-p unkown, replaced with _-_ ==	
+sq.in..	[[ ,Esyk'e p'oNtw 'in p'oNtU]]
+== 1 mbrola: Warning: n-k unkown, replaced with _-_ ==	
+ranking.	[[ x'&NkIN]]
+== 1 mbrola: Warning: m-m unkown, replaced with _-_ ==	
+grímmia.	[[ gR'immj&]]
+== 1 mbrola: Warning: k-m unkown, replaced with _-_ ==	
+khmer.	[[ km'er]]
+== 1 mbrola: Warning: g-b unkown, replaced with _-_ ==	
+neighborita.	[[ n,eigbo*'it&]]
+== 1 mbrola: Warning: f-t unkown, replaced with _-_ ==	
+software.	[[ s'Oftwe@-]]
+== 1 mbrola: Warning: f-r2 unkown, replaced with _-_ ==	
+perífr..	[[ pe*'ifr]]
+== 1 mbrola: Warning: e-ts unkown, replaced with _-_ ==	
+etc.	[[ ,ets'Ete*&]]
+== 1 mbrola: Warning: d-z unkown, replaced with _-_ ==	
+LEDs.	[[ l'edzIz]]
+== 1 mbrola: Warning: d-s2 unkown, replaced with _-_ ==	
+McDonald's.	[[ ,emes'e don'aUds#]]
+== 1 mbrola: Warning: c-_ unkown, replaced with _-_ ==	
+mbrola: Warning: a-c unkown, replaced with _-_	
+== 1 mbrola: Warning: b-p unkown, replaced with _-_ ==	
+mbrola: Warning: r-b unkown, replaced with _-_	
+== 1 mbrola: Warning: b-n unkown, replaced with _-_ ==	
+Leibniz.	[[ l'aIbni:ts]]
+== 1 mbrola: Warning: a-c unkown, replaced with _-_ ==	
+Isaac.	[[ iz'ac]]
