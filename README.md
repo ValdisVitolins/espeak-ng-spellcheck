@@ -6,7 +6,7 @@ Prepare file xx-words.txt with list of checked files. You can get list of words 
 
 Note, that words should finish with dot at the end, to make sure spelling output is in separate line for each word. If necessary you can put phrases in the line.
 
-Then run `espeak-ng-spellcheck.sh [lang]` and check output files:
+Then run `./espeak-ng-spellcheck.sh [lang]` and check output files:
 
 Where `[lang]` is optional two letter language code (default is `lv`)
 
