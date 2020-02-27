@@ -2,13 +2,9 @@
 
 This project contains tools to check Espeak NG spelling changes for improvements and/or regressions.
 
-Prepare file xx-words.txt with list of checked files. You can get list of words in your language from e.g. from [LibreOffice dictionary](https://cgit.freedesktop.org/libreoffice/dictionaries/tree/)
+<a class="anchor" id="step1">1. Prepare file `xx-words.txt` with list of checked files[<sup>1</sup>](#1).
 
-Note, that words should finish with dot at the end, to make sure spelling output is in separate line for each word. If necessary you can put phrases in the line.
-
-Then run `./espeak-ng-spellcheck.sh [lang]` and check output files:
-
-Where `[lang]` is optional two letter language code (default is `lv`)
+<a class="anchor" id="step2">2. Run `./espeak-ng-spellcheck.sh [lang]` where `[lang]` is optional two letter language code (default is `lv`)[<sup>2</sup>](#2):
 
 ## Spelling
 
@@ -24,3 +20,17 @@ Where `[lang]` is optional two letter language code (default is `lv`)
 * `xx_winning-lines-count.txt` count how many times each rule line has win for all words
 * `xx_unused-lines.txt` list of lines, which have never used (won) for spelling decisions
 
+
+<a class="anchor" id="step3">3. Make changes in `xx_list` or `xx_rules` file of `espeak-ng` project.
+ 
+<a class="anchor" id="step4">4. Go to [step 2](#step2).
+ 
+<a class="anchor" id="step5">5. Compare differences in produced log files and check for regressions.
+
+<a class="anchor" id="step6">6. Continue with [step 3](#step3) etc.
+
+----
+
+<a class="anchor" id="1"></a>1. There are already prepared files for several languages. You can get list of words in your language from e.g. from [LibreOffice dictionary](https://cgit.freedesktop.org/libreoffice/dictionaries/tree/). Note, that words should finish with dot at the end, to make sure spelling output is in separate line for each word. If necessary you can put phrases in the line.
+
+<a class="anchor" id="2"></a>2. Script assumes espeak-ng poroject is located in `~/code/espeak-ng/` folder. Change settings (or project location) if necessary.
